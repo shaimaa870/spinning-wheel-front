@@ -1,0 +1,1769 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-14 18:45+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ar\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/views/user-settings/Tabs.js:17
+msgid " change_password"
+msgstr "تغيير كلمة المرور"
+
+#: src/views/tenant/Columns.js:39
+#: src/views/usersManagement/users/List.js:187
+msgid "Active"
+msgstr "نشط"
+
+#: src/views/product/attributes/ProductAttributes.js:197
+#~ msgid "Add_points"
+#~ msgstr "ادخل النقاط"
+
+#: src/views/product/attributes/ProductAttributes.js:167
+#: src/views/product/attributes/ProductAttributes.js:174
+#~ msgid "Add_value"
+#~ msgstr "ادخل القيمة"
+
+#: src/views/age-ranges/List.js:68
+#~ msgid "Age_Ranges"
+#~ msgstr "الفئات العمرية"
+
+#: src/views/city/List.js:160
+#: src/views/country/List.js:110
+#: src/views/governorate/List.js:120
+#: src/views/store/List.js:115
+#: src/views/usersManagement/users/List.js:113
+msgid "Are_you_sure_you_want_to_delete_this_item_?"
+msgstr "هل متأكد من أنك نريد حذف هذا العنصر؟"
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:216
+msgid "Are_you_sure_you_want_to_submit_?"
+msgstr ""
+
+#: src/views/home.js
+#~ msgid "Clients_surveys"
+#~ msgstr "استطلاعات الراى"
+
+#: src/store/code/logic.js:20
+#~ msgid "Codes_assigned_successfully"
+#~ msgstr ""
+
+#: src/store/code/logic.js:12
+#~ msgid "Codes_created_successfully"
+#~ msgstr "تم اضافة الاكواد بنجاح"
+
+#: src/views/tenant/details/ContactsTabContent.js:73
+msgid "Delete"
+msgstr "حذف"
+
+#: src/views/service/List.js:83
+#: src/views/serviceOptions/List.js:84
+#~ msgid "Delete_service"
+#~ msgstr ""
+
+#: src/views/store/List.js:108
+msgid "Delete_store"
+msgstr "حذف معرض"
+
+#: src/views/tenant/List.js:81
+msgid "Delete_tenant"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:139
+#: src/views/createCodePage/CodeForm.js:109
+#~ msgid "Enter_prefix_firstly"
+#~ msgstr "قم بإدخال ال prefix أولا . مثال (scib)"
+
+#: src/views/usersManagement/painters/CustomerSupport/index.js:31
+#~ msgid "Pages"
+#~ msgstr "الصفحات"
+
+#: src/views/product/attributes/ProductAttributes.js:195
+#~ msgid "Points_Adjustment"
+#~ msgstr "  تعديل النقاط (+)"
+
+#: src/views/transactions/Columns.js:134
+msgid "Service"
+msgstr ""
+
+#: src/views/usersManagement/UserRequests/Details.js:80
+#~ msgid "accept"
+#~ msgstr "قبول"
+
+#: src/views/home.js
+#~ msgid "accepted"
+#~ msgstr "المقبوله"
+
+#: src/views/btechWallet/Columns.js:89
+#: src/views/btechWallet/Columns.js:120
+#: src/views/city/Columns.js:27
+#: src/views/country/Columns.js:16
+#: src/views/governorate/Columns.js:23
+#: src/views/store/Columns.js:37
+#: src/views/tenant/Columns.js:55
+#: src/views/tenant/Columns.js:106
+#: src/views/transactions/Columns.js:18
+#: src/views/usersManagement/Roles/Columns.js:19
+#: src/views/usersManagement/users/Columns.js:61
+msgid "actions"
+msgstr "الاجراءات"
+
+#: src/views/usersManagement/users/Columns.js:46
+msgid "active"
+msgstr "نشط"
+
+#: src/views/promoters/Details.js:226
+#~ msgid "active_promoter"
+#~ msgstr "بائع نشط"
+
+#: src/views/supervisor/Details.js:224
+#~ msgid "active_supervisor"
+#~ msgstr "مشرف نشط"
+
+#: src/views/usersManagement/users/Details.js:184
+msgid "active_user"
+msgstr "مستخدم نشط"
+
+#: src/views/product/attributes/ProductAttributes.js:60
+#~ msgid "add"
+#~ msgstr "إضافة"
+
+#: src/views/tenant/details/ContactsTabContent.js:60
+msgid "add_contact"
+msgstr "اضافة جهة اتصال"
+
+#: src/views/survey/surveyManagement/List.js:62
+#~ msgid "add_new_survey"
+#~ msgstr "اضافة استبيان جديد"
+
+#: src/views/category/products/CategoryProducts.js:84
+#~ msgid "add_product"
+#~ msgstr "أضف منتج"
+
+#: src/views/reports/questions/List.js:82
+#~ msgid "add_question"
+#~ msgstr "اضافة سؤال"
+
+#: src/navigation/vertical/index.js:83
+#~ msgid "add_questions"
+#~ msgstr "الاسئلة"
+
+#: src/views/refusalReasons/List.js:68
+#~ msgid "add_refusal_reason"
+#~ msgstr " اضافة سبب رفض "
+
+#: src/views/survey/surveyManagement/Details.js:27
+#~ msgid "add_survey_questions"
+#~ msgstr "اضافة سؤال"
+
+#: src/views/store/Details.js:44
+#~ msgid "address_ar"
+#~ msgstr "العنوان بالعربية"
+
+#: src/views/store/Details.js:44
+#~ msgid "address_en"
+#~ msgstr "العنوان بالإنجليزية"
+
+#: src/views/usersManagement/users/Details.js:246
+#~ msgid "admin"
+#~ msgstr ""
+
+#: src/views/advertisement/Details.js:72
+#~ msgid "advertisement"
+#~ msgstr "الإعلان"
+
+#: src/navigation/vertical/index.js:114
+#~ msgid "ageRange"
+#~ msgstr "الفئه العمرية"
+
+#: src/navigation/vertical/index.js:114
+#~ msgid "ageRanges"
+#~ msgstr "الفئات العمرية"
+
+#: src/views/tenant/details/ConfigurationTabContent.js:81
+msgid "allow-user-registration"
+msgstr "الاتاحه للمستخدمين للتسجيل"
+
+#: src/views/createCodePage/AssignCodeForm.js:252
+#~ msgid "allowble_length"
+#~ msgstr "العدد المتاح"
+
+#: src/views/createCodePage/AssignCodeForm.js:248
+#~ msgid "allowble_start"
+#~ msgstr "بداية إستخدام الأكواد "
+
+#: src/views/questions/Details.js:111
+#~ msgid "answer"
+#~ msgstr ""
+
+#: src/views/questions/Details.js:28
+#~ msgid "answer_ar"
+#~ msgstr "الاجابه بالعربية"
+
+#: src/views/questions/Details.js:28
+#~ msgid "answer_en"
+#~ msgstr " الاجابه بالإنجليزية"
+
+#: src/views/promoters/Details.js:191
+#: src/views/supervisor/Details.js:189
+#~ msgid "app"
+#~ msgstr "البرنامج"
+
+#: src/navigation/vertical/index.js:33
+#~ msgid "app_managment"
+#~ msgstr "إدارة التطبيق"
+
+#: src/navigation/vertical/index.js:104
+#~ msgid "app_setting"
+#~ msgstr "الضبط"
+
+#: src/views/tenant/details/ContactsTabContent.js:79
+#: src/views/tenant/List.js:87
+#: src/views/usersManagement/Roles/List.js:117
+msgid "are_you_sure_you_want_to_delete"
+msgstr "هل أنت متأكد من حذف هذا العنصر"
+
+#: src/navigation/vertical/index.js:53
+#: src/views/product/attributes/ProductAttributes.js:106
+#~ msgid "attribute"
+#~ msgstr "خاصية المنتج"
+
+#: src/views/attribute/List.js:76
+#: src/views/product/attributes/ProductAttributes.js:57
+#: src/views/product/attributes/ProductAttributes2.js:26
+#~ msgid "attributes"
+#~ msgstr "خواص المنتج"
+
+#: src/views/products/Details.js:146
+#~ msgid "available-offers"
+#~ msgstr "العروض المتاحة"
+
+#: src/components/shared/CustomCard.js:40
+msgid "back"
+msgstr "رجوع"
+
+#: src/components/shared/TransactionDetails.js:94
+#: src/views/btechWallet/Columns.js:84
+#: src/views/btechWallet/Columns.js:115
+#: src/views/transactions/Columns.js:74
+msgid "balance"
+msgstr ""
+
+#: src/views/home.js
+#~ msgid "best_selected_offers"
+#~ msgstr "العروض الاكثر اختيارا"
+
+#: src/views/home.js
+#~ msgid "best_selected_products"
+#~ msgstr "المنتجات الاكثر اختيارا"
+
+#: src/views/usersManagement/UserRequests/Details.js:127
+#~ msgid "birthDate"
+#~ msgstr "تاريخ الميلاد"
+
+#: src/components/shared/SendNotification.js:41
+msgid "body"
+msgstr ""
+
+#: src/components/shared/SendNotification.js:25
+msgid "body_is_required"
+msgstr ""
+
+#: src/views/products/Columns.js:14
+#: src/views/products/Details.js:109
+#~ msgid "brand"
+#~ msgstr " التصنيف"
+
+#: src/views/brands/List.js:110
+#~ msgid "brand_details"
+#~ msgstr "تفصايل "
+
+#: src/views/products/Details.js:67
+#~ msgid "brand_is_required"
+#~ msgstr "تفصايل العلامة التجارية"
+
+#: src/views/city/List.js:150
+#: src/views/country/List.js:100
+#: src/views/governorate/List.js:110
+#: src/views/tenant/details/ContactsTabContent.js:97
+#: src/views/user-settings/GeneralTabContent.js:91
+#: src/views/user-settings/PasswordTabContent.js:93
+msgid "cancel"
+msgstr "إلغاء"
+
+#: src/navigation/vertical/index.js:31
+#~ msgid "catalog"
+#~ msgstr "الكتالوج"
+
+#: src/views/category/List.js:75
+#: src/views/product/Details.js:161
+#~ msgid "categories"
+#~ msgstr "التصنيفات/الفئات"
+
+#: src/navigation/vertical/index.js:41
+#~ msgid "category"
+#~ msgstr " التصنيفات/الفئات"
+
+#: src/views/product/List.js:126
+#~ msgid "categoryName"
+#~ msgstr "الفئة"
+
+#: src/views/product/Columns.js:34
+#~ msgid "categoryNames"
+#~ msgstr "اسماء التصنيفات"
+
+#: src/views/city/List.js:96
+msgid "cities"
+msgstr "المدن"
+
+#: src/views/store/Columns.js:32
+#: src/views/store/List.js:187
+msgid "city"
+msgstr "المدينة"
+
+#: src/views/store/Details.js:174
+msgid "cityId"
+msgstr "المدينة"
+
+#: src/views/store/Details.js:62
+#: src/views/store/Details.js:63
+#: src/views/store/Details.js:64
+msgid "city_is_required"
+msgstr "المدينة مطلوبه"
+
+#: src/views/shiftSessions/List.js:
+#~ msgid "clear"
+#~ msgstr "ازاله"
+
+#: src/views/shiftSessions/List.js:
+#~ msgid "client_Response"
+#~ msgstr "استجابه الموظفين"
+
+#: src/views/usersManagement/UserRequests/Details.js:72
+#~ msgid "client_details"
+#~ msgstr "معلومات العميل"
+
+#: src/navigation/vertical/index.js:143
+#~ msgid "client_requests"
+#~ msgstr "طلبات الاضافة"
+
+#: src/views/client-responces/Columns.js
+#: src/views/client-responces/List.js:58
+#~ msgid "client_responces"
+#~ msgstr "استجابه المستخدمين"
+
+#: src/views/suggestions/List.js:85
+#~ msgid "close"
+#~ msgstr "اغلاق"
+
+#: src/views/store/Columns.js:11
+#: src/views/store/Details.js:109
+#: src/views/store/List.js:152
+msgid "code"
+msgstr "الكود "
+
+#: src/navigation/vertical/index.js:74
+#: src/views/createCodePage/CodeBatches.js:39
+#~ msgid "codeBatches"
+#~ msgstr ""
+
+#: src/views/outlet/Details.js:40
+#~ msgid "code_is_required"
+#~ msgstr "حقل الكود مطلوب"
+
+#: src/views/serviceOptions/Columns.js:35
+#~ msgid "commission"
+#~ msgstr ""
+
+#: src/views/companyInfo/List.js:49
+#~ msgid "companyInfos"
+#~ msgstr "معلومات الشركه"
+
+#: src/views/companyInfo/Columns.js:11
+#: src/views/companyInfo/Details.js:110
+#~ msgid "company_address_ar"
+#~ msgstr "عنوان الشركة بالعربية"
+
+#: src/views/companyInfo/Columns.js:11
+#: src/views/companyInfo/Details.js:110
+#~ msgid "company_address_en"
+#~ msgstr "عنوان الشركة بالانجليزيه"
+
+#: src/navigation/vertical/index.js:165
+#: src/views/companyInfo/Details.js:83
+#~ msgid "company_info"
+#~ msgstr "معلومات الشركة"
+
+#: src/views/companyInfo/Columns.js:26
+#: src/views/companyInfo/Details.js:117
+#~ msgid "company_url"
+#~ msgstr "موقع الشركه"
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:212
+msgid "confirm"
+msgstr ""
+
+#: src/views/reports/responses/List.js:96
+#~ msgid "consaltant"
+#~ msgstr "المستشار"
+
+#: src/views/client-responces/Columns.js
+#: src/views/client-responces/List.js:58
+#~ msgid "consumer_name"
+#~ msgstr "اسم المستهلك"
+
+#: src/views/product/Details.js:126
+#~ msgid "consumingRate_ar"
+#~ msgstr "معدل الاستهلاك الاسترشادى بالعربية"
+
+#: src/views/product/Details.js:126
+#~ msgid "consumingRate_en"
+#~ msgstr "معدل الاستهلاك الاسترشادى بالانجليزيه"
+
+#: src/views/serviceOptions/Columns.js:40
+#~ msgid "cost "
+#~ msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:136
+#~ msgid "count"
+#~ msgstr ""
+
+#: src/views/country/List.js:64
+msgid "countries"
+msgstr "الدول"
+
+#: src/views/city/Details.js:67
+#: src/views/governorate/List.js:151
+#: src/views/store/Details.js:140
+msgid "country"
+msgstr "الدولة"
+
+#: src/views/governorate/Details.js:70
+msgid "countryId"
+msgstr "الدولة"
+
+#: src/views/companyInfo/Details.js:85
+#~ msgid "create_Company_info"
+#~ msgstr "اضافة معلومات الشركة"
+
+#: src/views/attribute/List.js:87
+#: src/views/attribute/List.js:111
+#~ msgid "create_attribute"
+#~ msgstr "اضافة خاصية"
+
+#: src/views/category/Details.js:93
+#: src/views/category/List.js:89
+#: src/views/category/List.js:114
+#~ msgid "create_category"
+#~ msgstr "إضافة تصنيف"
+
+#: src/views/city/List.js:108
+#: src/views/city/List.js:134
+msgid "create_city"
+msgstr "اضافة مدينة"
+
+#: src/views/companyInfo/List.js:59
+#~ msgid "create_company_info"
+#~ msgstr ""
+
+#: src/views/tenant/details/ContactsTabContent.js:87
+msgid "create_contact"
+msgstr "اضافة جهة اتصال"
+
+#: src/views/country/List.js:75
+#: src/views/country/List.js:94
+msgid "create_country"
+msgstr " اضافة دولة"
+
+#: src/views/governorate/List.js:85
+#: src/views/governorate/List.js:104
+msgid "create_governorate"
+msgstr "اضافة محافظة"
+
+#: src/views/serviceOptions/List.js:54
+#~ msgid "create_option"
+#~ msgstr " اضافة عرض "
+
+#: src/views/product/attributes/List.js:73
+#: src/views/product/List.js:75
+#~ msgid "create_product"
+#~ msgstr " اضافة منتج"
+
+#: src/views/questions/Details.js:69
+#: src/views/questions/List.js:89
+#: src/views/questions/List.js:114
+#~ msgid "create_question"
+#~ msgstr "اضافة سؤال"
+
+#: src/views/usersManagement/Roles/Details.js:82
+#: src/views/usersManagement/Roles/List.js:94
+msgid "create_role"
+msgstr "اضافة دور"
+
+#: src/views/service/Details.js:91
+#: src/views/service/List.js:64
+#~ msgid "create_service"
+#~ msgstr "اضافة خدمه"
+
+#: src/views/serviceOptions/Details.js:80
+#~ msgid "create_service_option"
+#~ msgstr " اضافة خيارات لخدمه"
+
+#: src/views/slab/List.js:54
+#~ msgid "create_slab"
+#~ msgstr "اضافه شريحة"
+
+#: src/views/store/Details.js:84
+#: src/views/store/List.js:84
+msgid "create_store"
+msgstr "اضافة معرض"
+
+#: src/views/tenant/List.js:61
+msgid "create_tenant"
+msgstr ""
+
+#: src/views/usersManagement/users/Details.js:111
+#: src/views/usersManagement/users/List.js:85
+msgid "create_user"
+msgstr "اضافة مستخدم"
+
+#: src/views/createCodePage/Columns.js:58
+#~ msgid "createdBy"
+#~ msgstr " "
+
+#: src/views/reports/responses/Columns.js:17
+#~ msgid "createdDate"
+#~ msgstr "تاريخ الانشاء"
+
+#: src/components/shared/TransactionDetails.js:80
+#: src/views/btechWallet/Columns.js:38
+#: src/views/transactions/Columns.js:43
+msgid "created_by"
+msgstr ""
+
+#: src/views/usersManagement/painters/CustomerSupport/index.js:31
+#: src/views/usersManagement/painters/CustomerSupport/index.js:31
+#~ msgid "customer_support"
+#~ msgstr "دعم العملاء"
+
+#: src/components/shared/TransactionDetails.js:101
+#: src/views/btechWallet/Columns.js:23
+#: src/views/transactions/Columns.js:38
+msgid "date"
+msgstr "التاريخ"
+
+#: src/views/advertisement/Details.js:80
+#~ msgid "delete"
+#~ msgstr "حذف"
+
+#: src/views/age-ranges/List.js:109
+#~ msgid "delete_Age_Range"
+#~ msgstr "حذف فئه عمريه"
+
+#: src/views/attribute/List.js:127
+#: src/views/product/attributes/ProductAttributes.js:73
+#~ msgid "delete_attribute"
+#~ msgstr "حذف خاصية"
+
+#: src/views/brands/List.js:122
+#~ msgid "delete_brand"
+#~ msgstr "حذف صنف"
+
+#: src/views/category/List.js:127
+#~ msgid "delete_category"
+#~ msgstr "حذف التصنيف"
+
+#: src/views/city/List.js:156
+msgid "delete_city"
+msgstr "حذف مدينة"
+
+#: src/views/country/List.js:106
+msgid "delete_country"
+msgstr " حذف دولة"
+
+#: src/views/governorate/List.js:116
+msgid "delete_governorate"
+msgstr "حذف المحافظة"
+
+#: src/views/offers/List.js:83
+#~ msgid "delete_offer"
+#~ msgstr ""
+
+#: src/views/serviceOptions/List.js:54
+#~ msgid "delete_option"
+#~ msgstr " حذف عرض "
+
+#: src/views/usersManagement/painters/List.js:82
+#~ msgid "delete_pinter"
+#~ msgstr ""
+
+#: src/views/product/attributes/List.js:94
+#: src/views/product/List.js:95
+#~ msgid "delete_product"
+#~ msgstr "حذف منتج"
+
+#: src/views/questions/List.js:127
+#~ msgid "delete_question"
+#~ msgstr ""
+
+#: src/views/refusalReasons/List.js:68
+#~ msgid "delete_refusal_reason"
+#~ msgstr " مسح سبب رفض "
+
+#: src/views/usersManagement/Roles/List.js:113
+msgid "delete_role"
+msgstr "حذف دور"
+
+#: src/views/service/List.js:90
+#~ msgid "delete_service"
+#~ msgstr "حذف خدمه"
+
+#: src/views/slab/List.js:54
+#~ msgid "delete_slab"
+#~ msgstr "حذف شريحة"
+
+#: src/views/store/List.js
+#~ msgid "delete_store"
+#~ msgstr "حذف معرض"
+
+#: src/views/survey/surveyManagement/List.js:81
+#~ msgid "delete_survey"
+#~ msgstr ""
+
+#: src/views/usersManagement/users/List.js:109
+msgid "delete_user"
+msgstr ""
+
+#: src/views/promoters/Columns.js:48
+#: src/views/supervisor/Columns.js:48
+#: src/views/usersManagement/users/Columns.js:48
+#~ msgid "departement"
+#~ msgstr "القسم"
+
+#: src/navigation/vertical/index.js:61
+#~ msgid "departments"
+#~ msgstr "الاقسام"
+
+#: src/views/product/Details.js:148
+#~ msgid "description_ar"
+#~ msgstr "الوصف بالعربية"
+
+#: src/views/product/Details.js:154
+#~ msgid "description_en"
+#~ msgstr "الوصف بالإنجليزية"
+
+#: src/views/suggestions/Columns.js:26
+#: src/views/usersManagement/UserRequests/Columns.js:22
+#~ msgid "details"
+#~ msgstr "التفاصيل"
+
+#: src/views/btechWallet/Filters/FilterTransactions.js:68
+msgid "direction"
+msgstr ""
+
+#: src/views/category/products/Product.js:244
+#~ msgid "edit"
+#~ msgstr "تعديل"
+
+#: src/views/attribute/List.js:109
+#~ msgid "edit_attribute"
+#~ msgstr "تعديل خاصية"
+
+#: src/views/category/Details.js:91
+#: src/views/category/List.js:112
+#~ msgid "edit_category"
+#~ msgstr "تعديل التصنيف"
+
+#: src/views/city/List.js:134
+msgid "edit_city"
+msgstr "تعديل مدينة"
+
+#: src/views/companyInfo/Details.js:85
+#~ msgid "edit_company_info"
+#~ msgstr "تعديل معلومات الشركة"
+
+#: src/views/country/List.js:94
+msgid "edit_country"
+msgstr " تعديل دولة"
+
+#: src/views/governorate/List.js:104
+msgid "edit_governorate"
+msgstr "تعديل المحافظة"
+
+#: src/views/serviceOptions/List.js:54
+#~ msgid "edit_option"
+#~ msgstr " تعديل عرض "
+
+#: src/views/promoters/Details.js:110
+#~ msgid "edit_promoter"
+#~ msgstr ""
+
+#: src/views/questions/Details.js:67
+#: src/views/questions/List.js:112
+#~ msgid "edit_question"
+#~ msgstr "تعديل سؤال"
+
+#: src/views/refusalReasons/List.js:68
+#~ msgid "edit_refusal_reason"
+#~ msgstr " تعديل سبب رفض "
+
+#: src/views/usersManagement/Roles/Details.js:82
+msgid "edit_role"
+msgstr "تعديل الدور"
+
+#: src/views/service/Details.js:89
+#~ msgid "edit_service"
+#~ msgstr ""
+
+#: src/views/serviceOptions/Details.js:78
+#~ msgid "edit_service_option"
+#~ msgstr ""
+
+#: src/views/slab/List.js:54
+#~ msgid "edit_slab"
+#~ msgstr "تعديل شريحة"
+
+#: src/views/store/Details.js:82
+msgid "edit_store"
+msgstr "تعديل معرض"
+
+#: src/views/usersManagement/users/Details.js:111
+msgid "edit_user"
+msgstr "تعديل المستخدم"
+
+#: src/views/tenant/Columns.js:18
+#: src/views/tenant/Columns.js:85
+#: src/views/tenant/details/GeneralInfo.js:71
+#: src/views/tenant/details/TenantContactForm.js:55
+#: src/views/user-settings/GeneralTabContent.js:61
+msgid "email"
+msgstr "البريد"
+
+#: src/views/createCodePage/AssignCodeForm.js:175
+#~ msgid "end"
+#~ msgstr "النهاية"
+
+#: src/views/createCodePage/CodeBatches.js:180
+#~ msgid "endDate"
+#~ msgstr "تاريخ النهاية"
+
+#: src/views/btechWallet/Filters/FilterTransactions.js:48
+#: src/views/transactions/TransactionComponent.js:122
+msgid "end_date"
+msgstr "تاريخ النهاية"
+
+#: src/views/user-settings/PasswordTabContent.js:69
+msgid "enter_confirm_password"
+msgstr "ادخل تأكيد كلمة المرور"
+
+#: src/views/user-settings/PasswordTabContent.js:62
+msgid "enter_new_password"
+msgstr "ادخل كلمة المرور الجديدة"
+
+#: src/views/user-settings/PasswordTabContent.js:52
+msgid "enter_old_password"
+msgstr "ادخل كلمة المرور القدينة"
+
+#: src/views/survey/surveyManagement/Details.js:21
+#~ msgid "enter_your_survey_information"
+#~ msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:175
+#~ msgid "expairyDate"
+#~ msgstr "تاريخ الانتهاء"
+
+#: src/views/product/Details.js:126
+#~ msgid "expiration_ar"
+#~ msgstr "التخزين والصلاحية بالعربية"
+
+#: src/views/product/Details.js:126
+#~ msgid "expiration_en"
+#~ msgstr "التخزين والصلاحية بالانجليزيه"
+
+#: src/views/companyInfo/Details.js:124
+#~ msgid "facebook"
+#~ msgstr "فيسبوك"
+
+#: src/views/tenant/details/ConfigurationTabContent.js:111
+msgid "fcaebookAppId"
+msgstr "Facebook application Id"
+
+#: src/views/tenant/details/ConfigurationTabContent.js:118
+msgid "fcaebookKey"
+msgstr "Facebook secret key"
+
+#: src/views/product/Details.js:126
+#~ msgid "features_ar"
+#~ msgstr "مميزات المنتج بالعربية"
+
+#: src/views/product/Details.js:126
+#~ msgid "features_en"
+#~ msgstr "مميزات  المنتج بالانجليزيه"
+
+#: src/views/serviceOptions/Columns.js:30
+#~ msgid "fees"
+#~ msgstr ""
+
+#: src/views/home/GenderStatstics.js:44
+#~ msgid "female_number"
+#~ msgstr "عدد الاناث"
+
+#: src/views/reports/responses/List.js:129
+#~ msgid "filter"
+#~ msgstr "صفى"
+
+#: src/views/user-settings/GeneralTabContent.js:66
+#: src/views/usersManagement/users/Details.js:136
+msgid "first_name"
+msgstr "الاسم الاول"
+
+#: src/views/usersManagement/users/Columns.js:35
+#: src/views/usersManagement/users/List.js:154
+msgid "full_name"
+msgstr "الاسم كامل"
+
+#: src/views/Home.js:109
+#~ msgid "game"
+#~ msgstr ""
+
+#: src/views/client-responces/Columns.js
+#: src/views/client-responces/List.js:58
+#: src/views/Home.js:216
+#~ msgid "gender"
+#~ msgstr "النوع"
+
+#: src/views/user-settings/Tabs.js:11
+msgid "general"
+msgstr "عام"
+
+#: src/views/usersManagement/painters/CustomerSupport/Tabs.js:11
+#~ msgid "general_info"
+#~ msgstr "عام"
+
+#: src/views/usersManagement/users/Details.js:208
+msgid "generate_password"
+msgstr "توليد كلمة مرور"
+
+#: src/views/createCodePage/CodeForm.js:175
+#~ msgid "gnerate"
+#~ msgstr "انشاء"
+
+#: src/views/tenant/details/ConfigurationTabContent.js:136
+msgid "googleAppId"
+msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:143
+msgid "googleKey"
+msgstr ""
+
+#: src/views/city/Columns.js:16
+#: src/views/city/Details.js:83
+#: src/views/city/List.js:186
+#: src/views/store/Columns.js:27
+#: src/views/store/Details.js:158
+#: src/views/store/List.js:167
+msgid "governorate"
+msgstr "المحافظة"
+
+#: src/views/governorate/List.js:74
+msgid "governorates"
+msgstr "المحافظات"
+
+#: src/@core/components/breadcrumbs/index.js:30
+#: src/navigation/vertical/index.js:15
+msgid "home"
+msgstr "الرئيسيه"
+
+#: src/views/category/Columns.js:44
+#~ msgid "image"
+#~ msgstr "الصوره "
+
+#: src/components/shared/ImportDataToexcel.js:167
+msgid "import-data"
+msgstr ""
+
+#: src/navigation/vertical/index.js:65
+#~ msgid "import-users"
+#~ msgstr ""
+
+#: src/views/companyInfo/Details.js:138
+#~ msgid "instagram"
+#~ msgstr "انستجرام"
+
+#: src/views/product/Details.js:126
+#~ msgid "instructions_ar"
+#~ msgstr "تعليمات الاستخدام بالعربية "
+
+#: src/views/product/Details.js:126
+#~ msgid "instructions_en"
+#~ msgstr "تعليمات الاستخدام بالإنجليزية"
+
+#: src/views/createCodePage/CodeBatches.js:134
+#~ msgid "intial_refrence"
+#~ msgstr "البداية"
+
+#: src/views/createCodePage/AssignCodeForm.js:264
+#~ msgid "invalid_prefix"
+#~ msgstr "هذا prefix غير صحيح"
+
+#: src/views/survey/surveyManagement/tabs/QuestionComponent.js:85
+#: src/views/survey/surveyManagement/tabs/QuestionComponent.js:93
+#~ msgid "is-correct-answer"
+#~ msgstr "الأجابة الصحيحة"
+
+#: src/views/tenant/details/GeneralInfo.js:68
+msgid "isActive"
+msgstr ""
+
+#: src/views/product/List.js:126
+#: src/views/product/Details.js:126
+#~ msgid "isFeatured"
+#~ msgstr "مميز"
+
+#: src/views/category/Details.js:35
+#: src/views/category/Details.js:41
+#~ msgid "is_required"
+#~ msgstr "مطلوب"
+
+#: src/store/city/logic.js:42
+#: src/store/city/logic.js:70
+#: src/store/service/logic.js:51
+#: src/store/service/logic.js:61
+#: src/store/service/logic.js:72
+#: src/store/store/logic.js:18
+#: src/store/transaction/logic.js:24
+#: src/store/transaction/logic.js:31
+#: src/store/transaction/logic.js:40
+msgid "item_added_successfully"
+msgstr "تم إضافة العنصر بنجاح"
+
+#: src/store/city/logic.js:25
+#: src/store/city/logic.js:56
+#: src/store/city/logic.js:84
+#: src/store/service/logic.js:103
+#: src/store/service/logic.js:110
+#: src/store/store/logic.js:38
+msgid "item_deleted_successfully"
+msgstr "تم حذف العنصر بنجاح"
+
+#: src/store/city/logic.js:49
+#: src/store/city/logic.js:77
+#: src/store/service/logic.js:82
+#: src/store/service/logic.js:93
+#: src/store/store/logic.js:28
+#: src/store/userManagement/logic.js:95
+msgid "item_edited_successfully"
+msgstr "تم تعديل العنصر بنجاح"
+
+#: src/views/user-settings/GeneralTabContent.js:72
+#: src/views/usersManagement/users/Details.js:143
+msgid "last_name"
+msgstr "الاسم الاخير"
+
+#: src/views/store/Details.js:129
+msgid "lat"
+msgstr " خط العرض"
+
+#: src/views/store/Details.js:66
+msgid "lat_is_required"
+msgstr "هذا الحقل مطلوب"
+
+#: src/views/Home.js:117
+#: src/views/Home.js:119
+#~ msgid "leader_board"
+#~ msgstr ""
+
+#: src/views/createCodePage/CodeForm.js:132
+#~ msgid "length"
+#~ msgstr "الطول"
+
+#: src/views/product/Details.js:171
+#~ msgid "link"
+#~ msgstr "اللينك"
+
+#: src/views/store/Details.js:122
+msgid "lng"
+msgstr " خط الطول"
+
+#: src/views/store/Details.js:65
+msgid "lng_is_required"
+msgstr "هذا الحقل مطلوب"
+
+#: src/@core/layouts/components/navbar/UserDropdown.js:98
+msgid "logout"
+msgstr "خروج"
+
+#: src/navigation/vertical/index.js:88
+#~ msgid "lookups"
+#~ msgstr "الاعدادات"
+
+#: src/views/survey/surveyManagement/tabs/SurveyInfo.js:81
+#~ msgid "making_a_static_questions_number_per_page"
+#~ msgstr "عمل عدد ثابت من الأسئلة في كل صفحة"
+
+#: src/views/home/GenderStatstics.js:41
+#~ msgid "male_number"
+#~ msgstr "عدد الذكور"
+
+#: src/views/offers/Columns.js:14
+#~ msgid "message"
+#~ msgstr ""
+
+#: src/views/offers/Details.js:114
+#~ msgid "message_ar"
+#~ msgstr ""
+
+#: src/views/offers/Details.js:55
+#~ msgid "message_ar_is_required"
+#~ msgstr ""
+
+#: src/views/offers/Details.js:108
+#~ msgid "message_en"
+#~ msgstr ""
+
+#: src/views/offers/Details.js:54
+#~ msgid "message_en_is_required"
+#~ msgstr ""
+
+#: src/views/category/products/Product.js:45
+#~ msgid "min-packs-no"
+#~ msgstr ""
+
+#: src/views/slab/List.js:54
+#: src/views/slab/PopUpDetails.js
+#~ msgid "minValue"
+#~ msgstr "اقل قيمه"
+
+#: src/views/offers/Details.js:57
+#: src/views/offers/Details.js:58
+#~ msgid "min_array_no"
+#~ msgstr ""
+
+#: src/views/tenant/Columns.js:25
+#: src/views/tenant/Columns.js:92
+#: src/views/tenant/details/GeneralInfo.js:75
+#: src/views/tenant/details/TenantContactForm.js:60
+msgid "mobileNumber"
+msgstr ""
+
+#: src/views/btechWallet/Columns.js:111
+#: src/views/city/Columns.js:11
+#: src/views/governorate/Columns.js:11
+#: src/views/store/Columns.js:16
+#: src/views/tenant/Columns.js:11
+#: src/views/tenant/Columns.js:78
+#: src/views/tenant/details/GeneralInfo.js:69
+#: src/views/tenant/details/TenantContactForm.js:52
+#: src/views/usersManagement/Roles/Details.js:105
+msgid "name"
+msgstr "الاسم"
+
+#: src/views/store/List.js:159
+msgid "name / phone_number"
+msgstr "الاسم / رقم الهاتف"
+
+#: src/views/country/Columns.js:12
+#: src/views/country/Details.js:70
+msgid "name_ar"
+msgstr "الإسم بالعربية"
+
+#: src/views/product/Details.js:66
+#: src/views/service/Details.js:69
+#~ msgid "name_ar_is_required"
+#~ msgstr "الإسم بالعربية مطلوب"
+
+#: src/views/country/Columns.js:8
+#: src/views/country/Details.js:75
+msgid "name_en"
+msgstr " الإسم بالإنجليزية"
+
+#: src/views/product/Details.js:65
+#: src/views/service/Details.js:68
+#~ msgid "name_en_is_required"
+#~ msgstr "الإسم بالإنجليزية مطلوب"
+
+#: src/views/store/Details.js:59
+#~ msgid "name_is_required"
+#~ msgstr ""
+
+#: src/views/usersManagement/painters/CustomerSupport/GeneralInfoTab.js:168
+#: src/views/usersManagement/UserRequests/Details.js:134
+#~ msgid "nationalId"
+#~ msgstr "الرقم القومى"
+
+#: src/views/usersManagement/painters/List.js:31
+#~ msgid "national_id"
+#~ msgstr "الرقم القومى"
+
+#: src/navigation/vertical/index.js:120
+#: src/views/nationality/List.js:70
+#~ msgid "nationalities"
+#~ msgstr "الجنسيات"
+
+#: src/views/client-responces/Columns.js:
+#: src/views/client-responces/List.js:
+#~ msgid "nationality"
+#~ msgstr "الجنسيه"
+
+#: src/views/usersManagement/painters/CustomerSupport/TransactionsTab.js:81
+#~ msgid "net"
+#~ msgstr ""
+
+#: src/views/city/List.js:162
+#: src/views/country/List.js:112
+#: src/views/governorate/List.js:122
+#: src/views/store/List.js:119
+#: src/views/tenant/details/ContactsTabContent.js:83
+#: src/views/tenant/List.js:91
+#: src/views/transactions/TransactionComponent.js:90
+#: src/views/usersManagement/Roles/List.js:119
+#: src/views/usersManagement/users/List.js:115
+#: src/views/ValidateVoucher/ValidateVoucher.js:218
+msgid "no"
+msgstr "لا"
+
+#: src/views/createCodePage/AssignCodeForm.js:258
+#: src/views/createCodePage/CodeBatches.js:154
+#~ msgid "no_allowble_codes"
+#~ msgstr "لا يتبقي اي أكواد"
+
+#: src/views/offers/Details.js:79
+#~ msgid "offer_details"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:55
+#: src/views/offers/List.js:51
+#~ msgid "offers"
+#~ msgstr "العروض"
+
+#: src/views/survey/surveyManagement/tabs/SurveyInfo.js:77
+#~ msgid "open_survey"
+#~ msgstr "استبيان نشط"
+
+#: src/views/serviceOptions/List.js:54
+#~ msgid "option"
+#~ msgstr " العروض"
+
+#: src/views/serviceOptions/List.js:54
+#~ msgid "options"
+#~ msgstr ""
+
+#: src/views/shiftSessions/List.js:
+#~ msgid "outlet"
+#~ msgstr "المعارض"
+
+#: src/views/shiftSessions/List.js:
+#~ msgid "outlet_Name"
+#~ msgstr "اسم المعرض"
+
+#: src/navigation/vertical/index.js:138
+#: src/views/outlet/Details.js:60
+#: src/views/outlet/List.js:55
+#~ msgid "outlets"
+#~ msgstr "المعارض"
+
+#: src/views/products/Details.js:118
+#~ msgid "owen"
+#~ msgstr ""
+
+#: src/views/reports/responses/Columns.js:47
+#~ msgid "pack"
+#~ msgstr ""
+
+#: src/views/product/Details.js:126
+#~ msgid "packSize_ar"
+#~ msgstr "حجم العبوات المتاحة بالعربيه"
+
+#: src/views/product/Details.js:126
+#~ msgid "packSize_en"
+#~ msgstr "حجم العبوات المتاحة بالانجليزيه"
+
+#: src/views/packTypes/List.js:69
+#~ msgid "packTypes"
+#~ msgstr "انواع العبوات"
+
+#: src/views/category/products/Product.js:223
+#~ msgid "pack_quantity"
+#~ msgstr "حجم العبوه"
+
+#: src/views/category/products/Product.js:217
+#~ msgid "pack_type"
+#~ msgstr "نوع العبوه"
+
+#: src/navigation/vertical/index.js:49
+#~ msgid "pack_types"
+#~ msgstr "أنواع العبوات"
+
+#: src/views/category/products/Product.js:232
+#~ msgid "pack_unit"
+#~ msgstr "الوحده"
+
+#: src/views/category/products/Product.js:102
+#~ msgid "packs"
+#~ msgstr "العبوات"
+
+#: src/views/survey/surveyManagement/tabs/QuestionsTab.js:143
+#~ msgid "page"
+#~ msgstr "صفحة"
+
+#: src/navigation/vertical/index.js:124
+#: src/views/usersManagement/painters/List.js:49
+#~ msgid "painters"
+#~ msgstr "العملاء"
+
+#: src/views/attribute/Details.js:91
+#: src/views/category/Details.js:122
+#~ msgid "parent"
+#~ msgstr " التصنيفات/الفئات"
+
+#: src/views/category/Columns.js:29
+#~ msgid "parentCategoryName"
+#~ msgstr "الفئة"
+
+#: src/views/tenant/details/GeneralInfo.js:85
+#: src/views/usersManagement/users/Details.js:189
+msgid "password"
+msgstr "كلمة السر"
+
+#: src/views/store/Columns.js:21
+#: src/views/store/Details.js:112
+msgid "phone"
+msgstr "الهاتف"
+
+#: src/views/tenant/Columns.js:32
+#: src/views/tenant/Columns.js:99
+#: src/views/tenant/details/GeneralInfo.js:80
+#: src/views/tenant/details/TenantContactForm.js:66
+msgid "phoneNumber"
+msgstr ""
+
+#: src/views/usersManagement/users/Columns.js:40
+#: src/views/usersManagement/users/Details.js:177
+#: src/views/usersManagement/users/List.js:162
+msgid "phone_number"
+msgstr "رقم الهاتف"
+
+#: src/components/inputs/Datepicker.js:28
+msgid "plz_select_date"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:122
+#: src/views/product/List.js:52
+#~ msgid "point"
+#~ msgstr "نقاط"
+
+#: src/components/shared/ClientPoints.js:19
+#: src/components/shared/TenantPoints.js:19
+msgid "points"
+msgstr "النقاط"
+
+#: src/views/createCodePage/AssignCodeForm.js:143
+#: src/views/createCodePage/CodeBatches.js:101
+#: src/views/createCodePage/CodeForm.js:113
+#~ msgid "prefix"
+#~ msgstr ""
+
+#: src/views/createCodePage/CodeForm.js:176
+#~ msgid "prefix_not_used_before"
+#~ msgstr "لم يتم استخدام هذا ال prefix  من قبل. قم بإدخال البداية"
+
+#: src/views/createCodePage/CodeForm.js:169
+#~ msgid "prefix_used_before"
+#~ msgstr "تم إنشاء أكواد سابقة بنفس ال prefix . الأكواد الجديدة ستبدأ من "
+
+#: src/views/prize/List.js:101
+#~ msgid "prize_details"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:37
+#: src/views/offers/Details.js:129
+#: src/views/prize/List.js:70
+#~ msgid "prizes"
+#~ msgstr "الجوائز"
+
+#: src/navigation/vertical/index.js:47
+#: src/views/product/Details.js:95
+#~ msgid "product"
+#~ msgstr "المنتجات"
+
+#: src/navigation/vertical/index.js:68
+#~ msgid "productCode"
+#~ msgstr "اضافة كود لمنتج"
+
+#: src/views/createCodePage/CodeBatches.js:115
+#~ msgid "product_name"
+#~ msgstr ""
+
+#: src/views/product/attributes/List.js:62
+#: src/views/product/List.js:64
+#~ msgid "products"
+#~ msgstr "المنتجات"
+
+#: src/views/shiftSessions/List.js:
+#~ msgid "products_count"
+#~ msgstr "عدد المنتجات"
+
+#: src/@core/layouts/components/navbar/UserDropdown.js:88
+msgid "profile"
+msgstr "الحساب"
+
+#: src/views/reports/responses/Columns.js:13
+#: src/views/reports/responses/List.js:105
+#~ msgid "promoter"
+#~ msgstr "المروج"
+
+#: src/views/shiftSessions/List.js:
+#~ msgid "promoter_name"
+#~ msgstr "اسم المروج"
+
+#: src/navigation/vertical/index.js:79
+#: src/views/questions/List.js:75
+#~ msgid "questions"
+#~ msgstr "الاسئلة"
+
+#: src/navigation/vertical/index.js:21
+msgid "razy_clients"
+msgstr "عملاء الرازي"
+
+#: src/views/createCodePage/CodeForm.js:125
+#~ msgid "referenceStart"
+#~ msgstr ""
+
+#: src/views/refusalReasons/List.js:68
+#~ msgid "refusal_reason"
+#~ msgstr " اسباب الرفض"
+
+#: src/views/home.js
+#~ msgid "refused"
+#~ msgstr "المرفوضه"
+
+#: src/views/usersManagement/UserRequests/Details.js:83
+#~ msgid "reject"
+#~ msgstr "رفض"
+
+#: src/views/reports/responses/Columns.js:
+#: src/views/reports/responses/List.js:
+#~ msgid "reports"
+#~ msgstr "التقارير"
+
+#: src/views/usersManagement/UserRequests/List.js:45
+#~ msgid "requests"
+#~ msgstr "الطلبات"
+
+#: src/views/tenant/details/ConfigurationTabContent.js:96
+msgid "require-national-id"
+msgstr ""
+
+#: src/views/product/attributes/ProductAttributes.js:122
+#~ msgid "required"
+#~ msgstr "مطلوب"
+
+#: src/views/category/products/Product.js:44
+#~ msgid "required-name"
+#~ msgstr "الإسم مطلوب"
+
+#: src/views/usersManagement/users/List.js:173
+msgid "role"
+msgstr "الدور"
+
+#: src/views/usersManagement/Roles/List.js:83
+msgid "role_list"
+msgstr "الادوار"
+
+#: src/navigation/vertical/index.js:71
+#: src/views/usersManagement/Roles/Columns.js:8
+#: src/views/usersManagement/users/Details.js:215
+msgid "roles"
+msgstr " الادوار"
+
+#: src/views/category/products/Product.js:195
+#~ msgid "save"
+#~ msgstr "حفظ"
+
+#: src/views/city/List.js:151
+#: src/views/country/List.js:101
+#: src/views/governorate/List.js:111
+#: src/views/setting/Setting.js:64
+#: src/views/store/Details.js:89
+#: src/views/tenant/details/ConfigurationTabContent.js:151
+#: src/views/tenant/details/ContactsTabContent.js:98
+#: src/views/tenant/details/GeneralInfo.js:103
+#: src/views/user-settings/GeneralTabContent.js:82
+#: src/views/user-settings/PasswordTabContent.js:84
+#: src/views/usersManagement/Roles/Details.js:89
+#: src/views/usersManagement/users/Details.js:115
+msgid "save_changes"
+msgstr "حفظ التغيرات"
+
+#: src/components/TransKeyNotFound.js:7
+msgid "search"
+msgstr "بحث"
+
+#: src/views/store/List.js:171
+#: src/views/store/List.js:177
+msgid "select"
+msgstr "اختر"
+
+#: src/views/store/Details.js:71
+#~ msgid "select_city"
+#~ msgstr "اختر المدينة"
+
+#: src/views/city/Columns.js:18
+#: src/views/city/Details.js:86
+#~ msgid "select_country"
+#~ msgstr "اختر الدولة"
+
+#: src/views/selectCustomer/List.js:36
+msgid "select_customer"
+msgstr "اختر عميل"
+
+#: src/views/store/Details.js:71
+#~ msgid "select_governorate"
+#~ msgstr "اختر المحافظة"
+
+#: src/views/createCodePage/AssignCodeForm.js:180
+#~ msgid "select_product_name"
+#~ msgstr "اختر اسم المنتج"
+
+#: src/views/tenant/details/ConfigurationTabContent.js:89
+msgid "send-OTP"
+msgstr ""
+
+#: src/views/usersManagement/painters/List.js:31
+#~ msgid "send_notification"
+#~ msgstr "ارسال اشعارات"
+
+#: src/views/service/List.js:53
+#~ msgid "service"
+#~ msgstr "الخدمات"
+
+#: src/views/transactions/Columns.js:121
+msgid "service_option"
+msgstr ""
+
+#: src/views/service/Details.js:115
+#~ msgid "service_type"
+#~ msgstr ""
+
+#: src/views/service/Details.js:116
+#~ msgid "service_typee"
+#~ msgstr "نوع الخدمه"
+
+#: src/views/service/List.js:53
+#~ msgid "services"
+#~ msgstr ""
+
+#: src/views/setting/Setting.js:55
+msgid "setting"
+msgstr ""
+
+#: src/navigation/vertical/index.js:108
+#~ msgid "settings"
+#~ msgstr "الإعدادات"
+
+#: src/views/shiftSessions/Columns.js
+#: src/views/shiftSessions/List.js:58
+#~ msgid "shift_sessions"
+#~ msgstr "الجلسات"
+
+#: src/views/serviceOptions/Columns.js:54
+#~ msgid "slab"
+#~ msgstr "الشريحة"
+
+#: src/views/createCodePage/AssignCodeForm.js:149
+#: src/views/createCodePage/CodeBatches.js:105
+#~ msgid "start"
+#~ msgstr ""
+
+#: src/views/createCodePage/CodeBatches.js:180
+#~ msgid "startDate"
+#~ msgstr "تاريخ البداية"
+
+#: src/views/btechWallet/Filters/FilterTransactions.js:41
+#: src/views/transactions/TransactionComponent.js:115
+msgid "start_date"
+msgstr "تاريخ البداية"
+
+#: src/views/Home.js:111
+#~ msgid "start_game"
+#~ msgstr "ابدا اللعب"
+
+#: src/views/home/StatusCard.js:44
+msgid "statistics"
+msgstr ""
+
+#: src/components/shared/TransactionDetails.js:108
+#: src/components/shared/TransactionDetails.js:132
+#: src/views/btechWallet/Columns.js:49
+#: src/views/transactions/Columns.js:81
+msgid "status"
+msgstr ""
+
+#: src/navigation/vertical/index.js:28
+#: src/views/usersManagement/users/Details.js:168
+msgid "store"
+msgstr "المعارض"
+
+#: src/views/usersManagement/UserRequests/Details.js:153
+#~ msgid "storeId"
+#~ msgstr "المعرض"
+
+#: src/views/store/List.js:72
+msgid "stores"
+msgstr "المعارض"
+
+#: src/views/product/List.js:126
+#~ msgid "subcategoryName"
+#~ msgstr "التصنيف"
+
+#: src/views/suggestions/Columns.js:22
+#: src/views/suggestions/Details.js:43
+#~ msgid "subject"
+#~ msgstr "الموضوع"
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:161
+msgid "submit"
+msgstr "ادخال"
+
+#: src/views/suggestions/List.js:80
+#~ msgid "suggestion_details"
+#~ msgstr "تفاصيل الاقتراح"
+
+#: src/navigation/vertical/index.js:150
+#: src/views/suggestions/List.js:58
+#~ msgid "suggestions"
+#~ msgstr "المقترحات"
+
+#: src/views/reports/responses/Columns.js:9
+#~ msgid "superVisor"
+#~ msgstr ""
+
+#: src/views/promoters/Details.js:152
+#~ msgid "superVisor_Id"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:79
+#: src/views/supervisor/List.js:48
+#~ msgid "supervisors"
+#~ msgstr "المشرفين"
+
+#: src/navigation/vertical/index.js:91
+#~ msgid "survey"
+#~ msgstr ""
+
+#: src/views/survey/surveyManagement/Details.js:20
+#~ msgid "survey_information"
+#~ msgstr ""
+
+#: src/views/survey/surveyManagement/Details.js:26
+#~ msgid "survey_questions"
+#~ msgstr ""
+
+#: src/views/survey/surveyManagement/List.js:51
+#~ msgid "surveys"
+#~ msgstr "استطلاعات الرأي"
+
+#: src/views/usersManagement/painters/Columns.js:38
+#~ msgid "tenant"
+#~ msgstr ""
+
+#: src/views/transactions/Columns.js:147
+msgid "tenant_name"
+msgstr ""
+
+#: src/views/tenant/List.js:49
+msgid "tenants"
+msgstr ""
+
+#: src/views/terms/List.js:20
+#~ msgid "terms_and_conditions"
+#~ msgstr "الاحكام والشروط "
+
+#: src/store/city/logic.js:23
+#: src/store/city/logic.js:40
+#: src/store/city/logic.js:47
+#: src/store/city/logic.js:54
+#: src/store/city/logic.js:68
+#: src/store/city/logic.js:75
+#: src/store/city/logic.js:82
+#: src/store/service/logic.js:49
+#: src/store/service/logic.js:59
+#: src/store/service/logic.js:70
+#: src/store/service/logic.js:80
+#: src/store/service/logic.js:91
+#: src/store/service/logic.js:101
+#: src/store/service/logic.js:108
+#: src/store/store/logic.js:16
+#: src/store/store/logic.js:26
+#: src/store/store/logic.js:36
+#: src/store/transaction/logic.js:22
+#: src/store/transaction/logic.js:29
+#: src/store/transaction/logic.js:38
+#: src/store/userManagement/logic.js:93
+msgid "there_is_an_error_occurred_try_again_later"
+msgstr "لقد حدث خطأ. حاول مرة اخرى لاحقا"
+
+#: src/components/shared/SendNotification.js:39
+msgid "title"
+msgstr "العنوان"
+
+#: src/views/questions/Details.js:28
+#~ msgid "title_ar"
+#~ msgstr "العنوان بالعربية"
+
+#: src/views/questions/Details.js:28
+#~ msgid "title_en"
+#~ msgstr "العنوان بالإنجليزية"
+
+#: src/components/shared/SendNotification.js:24
+msgid "title_is_required"
+msgstr ""
+
+#: src/views/survey/surveyManagement/tabs/QuestionsTab.js:119
+#~ msgid "tools"
+#~ msgstr "الادوات"
+
+#: src/components/shared/TransactionDetails.js:87
+#: src/views/btechWallet/Columns.js:44
+#: src/views/transactions/Columns.js:68
+msgid "total"
+msgstr ""
+
+#: src/views/createCodePage/CodeBatches.js:142
+#~ msgid "total_assigned_codes"
+#~ msgstr "عدد الأكواد التي تم إضافتها لمنتجات"
+
+#: src/views/createCodePage/AssignCodeForm.js:234
+#: src/views/createCodePage/CodeBatches.js:138
+#~ msgid "total_count"
+#~ msgstr " العدد الكلي الذي تم انشاؤه"
+
+#: src/views/createCodePage/CodeBatches.js:146
+#~ msgid "total_unassigned_codes"
+#~ msgstr "عدد الأكواد الغير مضافة لمنتجات"
+
+#: src/views/transactions/TransactionComponent.js:84
+msgid "transaction"
+msgstr ""
+
+#: src/components/shared/TransactionDetails.js:73
+#: src/views/btechWallet/Columns.js:28
+#: src/views/transactions/Columns.js:56
+msgid "transactionDirection"
+msgstr "اتجاه التحويل"
+
+#: src/views/usersManagement/painters/CustomerSupport/TransactionsTab.js:71
+#~ msgid "transactionType"
+#~ msgstr "نوع التحويل"
+
+#: src/components/shared/TransactionDetails.js:53
+msgid "transaction_details"
+msgstr ""
+
+#: src/views/transactions/Columns.js:50
+msgid "transaction_type"
+msgstr ""
+
+#: src/navigation/vertical/index.js:42
+#: src/views/transactions/TransactionComponent.js:20
+msgid "transactions"
+msgstr "المعاملات"
+
+#: src/views/companyInfo/Details.js:131
+#~ msgid "twitter"
+#~ msgstr "تويتر"
+
+#: src/views/reports/questions/Details.js:37
+#~ msgid "type_is_required"
+#~ msgstr ""
+
+#: src/views/unit/List.js:70
+#~ msgid "units"
+#~ msgstr "الوحدات"
+
+#: src/views/service/Details.js:90
+#~ msgid "update_service"
+#~ msgstr "تعديل خدمه"
+
+#: src/views/tenant/details/ConfigurationTabContent.js:103
+msgid "use-Fcaebook-Auth"
+msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:128
+msgid "use-google-auth"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:238
+#~ msgid "used_codes"
+#~ msgstr "العدد المستخدم "
+
+#: src/navigation/vertical/index.js:120
+#~ msgid "user_managment"
+#~ msgstr "إدارة المستخدمين"
+
+#: src/views/user-settings/GeneralTabContent.js:56
+#: src/views/usersManagement/users/Columns.js:20
+#: src/views/usersManagement/users/Details.js:150
+msgid "user_name"
+msgstr "اسم المستخدم"
+
+#: src/views/usersManagement/users/Details.js:230
+#~ msgid "user_type"
+#~ msgstr "نوع المستخدم"
+
+#: src/views/tenant/details/GeneralInfo.js:84
+msgid "username"
+msgstr ""
+
+#: src/navigation/vertical/index.js:35
+#: src/views/usersManagement/users/List.js:73
+msgid "users"
+msgstr "المستخدمين"
+
+#: src/views/product/Details.js:126
+#~ msgid "usingTools_ar"
+#~ msgstr "ادوات التنفيذ بالعربية"
+
+#: src/views/product/Details.js:126
+#~ msgid "usingTools_en"
+#~ msgstr "ادوات التنفيذ بالانجليزيه"
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:115
+msgid "validate_voucher"
+msgstr "ادخل كود القسيمة"
+
+#: src/views/product/attributes/ProductAttributes.js:181
+#~ msgid "value"
+#~ msgstr "القيمة"
+
+#: src/views/product/attributes/ProductAttributes.js:165
+#~ msgid "value_ar"
+#~ msgstr ""
+
+#: src/views/product/attributes/ProductAttributes.js:172
+#~ msgid "value_en"
+#~ msgstr ""
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:132
+msgid "voucherSerial"
+msgstr "كود القسيمة"
+
+#: src/views/city/List.js:163
+#: src/views/country/List.js:113
+#: src/views/governorate/List.js:123
+#: src/views/store/List.js:120
+#: src/views/tenant/details/ContactsTabContent.js:84
+#: src/views/tenant/List.js:92
+#: src/views/transactions/TransactionComponent.js:91
+#: src/views/usersManagement/Roles/List.js:120
+#: src/views/usersManagement/users/List.js:116
+#: src/views/ValidateVoucher/ValidateVoucher.js:219
+msgid "yes"
+msgstr "نعم"

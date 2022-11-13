@@ -1,0 +1,1410 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-14 18:45+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/views/user-settings/Tabs.js:17
+msgid " change_password"
+msgstr "msgstr change password"
+
+#: src/views/tenant/Columns.js:39
+#: src/views/usersManagement/users/List.js:187
+msgid "Active"
+msgstr ""
+
+#: src/views/product/attributes/ProductAttributes.js:197
+#~ msgid "Add_points"
+#~ msgstr "Add points"
+
+#: src/views/product/attributes/ProductAttributes.js:167
+#: src/views/product/attributes/ProductAttributes.js:174
+#~ msgid "Add_value"
+#~ msgstr "Add value"
+
+#: src/views/city/List.js:160
+#: src/views/country/List.js:110
+#: src/views/governorate/List.js:120
+#: src/views/store/List.js:115
+#: src/views/usersManagement/users/List.js:113
+msgid "Are_you_sure_you_want_to_delete_this_item_?"
+msgstr "Are you sure  you want to delete this item ?"
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:216
+msgid "Are_you_sure_you_want_to_submit_?"
+msgstr ""
+
+#: src/store/code/logic.js:20
+#~ msgid "Codes_assigned_successfully"
+#~ msgstr ""
+
+#: src/store/code/logic.js:12
+#~ msgid "Codes_created_successfully"
+#~ msgstr ""
+
+#: src/views/tenant/details/ContactsTabContent.js:73
+msgid "Delete"
+msgstr ""
+
+#: src/views/service/List.js:83
+#: src/views/serviceOptions/List.js:84
+#~ msgid "Delete_service"
+#~ msgstr ""
+
+#: src/views/store/List.js:108
+msgid "Delete_store"
+msgstr ""
+
+#: src/views/tenant/List.js:81
+msgid "Delete_tenant"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:139
+#: src/views/createCodePage/CodeForm.js:109
+#~ msgid "Enter_prefix_firstly"
+#~ msgstr "Enter Prfix firstly, Example ( scib )"
+
+#: src/views/Home.js:216
+#~ msgid "Gender"
+#~ msgstr "Gender"
+
+#: src/views/usersManagement/painters/CustomerSupport/index.js:31
+#~ msgid "Pages"
+#~ msgstr "pages"
+
+#: src/views/product/attributes/ProductAttributes.js:195
+#~ msgid "Points_Adjustment"
+#~ msgstr "Points Adjustment (+)"
+
+#: src/views/transactions/Columns.js:134
+msgid "Service"
+msgstr ""
+
+#: src/views/store/List.js:50
+#~ msgid "Stores"
+#~ msgstr ""
+
+#: src/views/usersManagement/UserRequests/Details.js:80
+#~ msgid "accept"
+#~ msgstr ""
+
+#: src/views/btechWallet/Columns.js:89
+#: src/views/btechWallet/Columns.js:120
+#: src/views/city/Columns.js:27
+#: src/views/country/Columns.js:16
+#: src/views/governorate/Columns.js:23
+#: src/views/store/Columns.js:37
+#: src/views/tenant/Columns.js:55
+#: src/views/tenant/Columns.js:106
+#: src/views/transactions/Columns.js:18
+#: src/views/usersManagement/Roles/Columns.js:19
+#: src/views/usersManagement/users/Columns.js:61
+msgid "actions"
+msgstr "actions"
+
+#: src/views/usersManagement/users/Columns.js:46
+msgid "active"
+msgstr ""
+
+#: src/views/usersManagement/users/Details.js:184
+msgid "active_user"
+msgstr "active user"
+
+#: src/views/product/attributes/ProductAttributes.js:60
+#~ msgid "add"
+#~ msgstr ""
+
+#: src/views/tenant/details/ContactsTabContent.js:60
+msgid "add_contact"
+msgstr ""
+
+#: src/navigation/vertical/index.js:83
+#~ msgid "add_questions"
+#~ msgstr "Fast Questions"
+
+#: src/views/store/Details.js:44
+#~ msgid "address_ar"
+#~ msgstr " address in arabic "
+
+#: src/views/store/Details.js:44
+#~ msgid "address_en"
+#~ msgstr " address in english "
+
+#: src/views/usersManagement/users/Details.js:246
+#~ msgid "admin"
+#~ msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:81
+msgid "allow-user-registration"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:252
+#~ msgid "allowble_length"
+#~ msgstr "Remaining available codes"
+
+#: src/views/createCodePage/AssignCodeForm.js:248
+#~ msgid "allowble_start"
+#~ msgstr "New codes will start from"
+
+#: src/views/questions/Details.js:111
+#~ msgid "answer"
+#~ msgstr ""
+
+#: src/views/questions/Details.js:28
+#~ msgid "answer_ar"
+#~ msgstr "answer in arabic"
+
+#: src/views/questions/Details.js:28
+#~ msgid "answer_en"
+#~ msgstr "answer in english"
+
+#: src/navigation/vertical/index.js:33
+#~ msgid "app_managment"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:104
+#~ msgid "app_setting"
+#~ msgstr "app setting"
+
+#: src/views/tenant/details/ContactsTabContent.js:79
+#: src/views/tenant/List.js:87
+#: src/views/usersManagement/Roles/List.js:117
+msgid "are_you_sure_you_want_to_delete"
+msgstr ""
+
+#: src/navigation/vertical/index.js:53
+#: src/views/product/attributes/ProductAttributes.js:106
+#~ msgid "attribute"
+#~ msgstr "attribute"
+
+#: src/views/attribute/List.js:76
+#: src/views/product/attributes/ProductAttributes.js:57
+#: src/views/product/attributes/ProductAttributes2.js:26
+#~ msgid "attributes"
+#~ msgstr "attributes"
+
+#: src/components/shared/CustomCard.js:40
+msgid "back"
+msgstr "back"
+
+#: src/components/shared/TransactionDetails.js:94
+#: src/views/btechWallet/Columns.js:84
+#: src/views/btechWallet/Columns.js:115
+#: src/views/transactions/Columns.js:74
+msgid "balance"
+msgstr ""
+
+#: src/views/usersManagement/UserRequests/Details.js:127
+#~ msgid "birthDate"
+#~ msgstr "Birth Date"
+
+#: src/components/shared/SendNotification.js:41
+msgid "body"
+msgstr ""
+
+#: src/components/shared/SendNotification.js:25
+msgid "body_is_required"
+msgstr ""
+
+#: src/views/city/List.js:150
+#: src/views/country/List.js:100
+#: src/views/governorate/List.js:110
+#: src/views/tenant/details/ContactsTabContent.js:97
+#: src/views/user-settings/GeneralTabContent.js:91
+#: src/views/user-settings/PasswordTabContent.js:93
+msgid "cancel"
+msgstr "cancel"
+
+#: src/navigation/vertical/index.js:31
+#~ msgid "catalog"
+#~ msgstr "catalog"
+
+#: src/views/category/List.js:75
+#: src/views/product/Details.js:161
+#~ msgid "categories"
+#~ msgstr "categories"
+
+#: src/navigation/vertical/index.js:41
+#~ msgid "category"
+#~ msgstr "categories"
+
+#: src/views/product/List.js:126
+#~ msgid "categoryName"
+#~ msgstr "category"
+
+#: src/views/product/Columns.js:34
+#~ msgid "categoryNames"
+#~ msgstr "Category Names"
+
+#: src/views/city/List.js:96
+msgid "cities"
+msgstr "cities"
+
+#: src/views/store/Columns.js:32
+#: src/views/store/List.js:187
+msgid "city"
+msgstr "city"
+
+#: src/views/store/Details.js:174
+msgid "cityId"
+msgstr "city"
+
+#: src/views/store/Details.js:62
+#: src/views/store/Details.js:63
+#: src/views/store/Details.js:64
+msgid "city_is_required"
+msgstr ""
+
+#: src/views/usersManagement/UserRequests/Details.js:72
+#~ msgid "client_details"
+#~ msgstr "Client Info"
+
+#: src/navigation/vertical/index.js:143
+#~ msgid "client_requests"
+#~ msgstr "Client Requests"
+
+#: src/views/suggestions/List.js:85
+#~ msgid "close"
+#~ msgstr ""
+
+#: src/views/store/Columns.js:11
+#: src/views/store/Details.js:109
+#: src/views/store/List.js:152
+msgid "code"
+msgstr "store code "
+
+#: src/navigation/vertical/index.js:74
+#: src/views/createCodePage/CodeBatches.js:39
+#~ msgid "codeBatches"
+#~ msgstr ""
+
+#: src/views/serviceOptions/Columns.js:35
+#~ msgid "commission"
+#~ msgstr ""
+
+#: src/views/companyInfo/Columns.js:11
+#: src/views/companyInfo/Details.js:110
+#~ msgid "company_address_ar"
+#~ msgstr "arabic company address"
+
+#: src/views/companyInfo/Columns.js:11
+#: src/views/companyInfo/Details.js:110
+#~ msgid "company_address_en"
+#~ msgstr "english company address"
+
+#: src/navigation/vertical/index.js:165
+#: src/views/companyInfo/Details.js:83
+#~ msgid "company_info"
+#~ msgstr "company Info"
+
+#: src/views/companyInfo/Columns.js:26
+#: src/views/companyInfo/Details.js:117
+#~ msgid "company_url"
+#~ msgstr "company url"
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:212
+msgid "confirm"
+msgstr ""
+
+#: src/views/product/Details.js:126
+#~ msgid "consumingRate_ar"
+#~ msgstr "arabic  product consuming Rate"
+
+#: src/views/product/Details.js:126
+#~ msgid "consumingRate_en"
+#~ msgstr "english  product consuming Rate"
+
+#: src/views/serviceOptions/Columns.js:40
+#~ msgid "cost "
+#~ msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:136
+#~ msgid "count"
+#~ msgstr ""
+
+#: src/views/country/List.js:64
+msgid "countries"
+msgstr ""
+
+#: src/views/city/Details.js:67
+#: src/views/governorate/List.js:151
+#: src/views/store/Details.js:140
+msgid "country"
+msgstr "countries"
+
+#: src/views/governorate/Details.js:70
+msgid "countryId"
+msgstr "country"
+
+#: src/views/companyInfo/Details.js:85
+#~ msgid "create_Company_info"
+#~ msgstr ""
+
+#: src/views/attribute/List.js:87
+#: src/views/attribute/List.js:111
+#~ msgid "create_attribute"
+#~ msgstr "create attribute"
+
+#: src/views/category/Details.js:93
+#: src/views/category/List.js:89
+#: src/views/category/List.js:114
+#~ msgid "create_category"
+#~ msgstr "create category"
+
+#: src/views/city/List.js:108
+#: src/views/city/List.js:134
+msgid "create_city"
+msgstr "create city"
+
+#: src/views/companyInfo/List.js:59
+#~ msgid "create_company_info"
+#~ msgstr "create company info"
+
+#: src/views/tenant/details/ContactsTabContent.js:87
+msgid "create_contact"
+msgstr ""
+
+#: src/views/country/List.js:75
+#: src/views/country/List.js:94
+msgid "create_country"
+msgstr "create country"
+
+#: src/views/governorate/List.js:85
+#: src/views/governorate/List.js:104
+msgid "create_governorate"
+msgstr ""
+
+#: src/views/serviceOptions/List.js:67
+#~ msgid "create_option"
+#~ msgstr ""
+
+#: src/views/product/attributes/List.js:73
+#: src/views/product/List.js:75
+#~ msgid "create_product"
+#~ msgstr ""
+
+#: src/views/questions/Details.js:69
+#: src/views/questions/List.js:89
+#: src/views/questions/List.js:114
+#~ msgid "create_question"
+#~ msgstr "delete question"
+
+#: src/views/usersManagement/Roles/Details.js:82
+#: src/views/usersManagement/Roles/List.js:94
+msgid "create_role"
+msgstr "create role\""
+
+#: src/views/service/Details.js:91
+#: src/views/service/List.js:64
+#~ msgid "create_service"
+#~ msgstr ""
+
+#: src/views/serviceOptions/Details.js:80
+#~ msgid "create_service_option"
+#~ msgstr ""
+
+#: src/views/slab/List.js:54
+#~ msgid "create_slab"
+#~ msgstr "create slab"
+
+#: src/views/store/Details.js:84
+#: src/views/store/List.js:84
+msgid "create_store"
+msgstr "create store"
+
+#: src/views/tenant/List.js:61
+msgid "create_tenant"
+msgstr ""
+
+#: src/views/usersManagement/users/Details.js:111
+#: src/views/usersManagement/users/List.js:85
+msgid "create_user"
+msgstr ""
+
+#: src/components/shared/TransactionDetails.js:80
+#: src/views/btechWallet/Columns.js:38
+#: src/views/transactions/Columns.js:43
+msgid "created_by"
+msgstr ""
+
+#: src/views/usersManagement/painters/CustomerSupport/index.js:31
+#~ msgid "customer_support"
+#~ msgstr "Customer Support"
+
+#: src/components/shared/TransactionDetails.js:101
+#: src/views/btechWallet/Columns.js:23
+#: src/views/transactions/Columns.js:38
+msgid "date"
+msgstr ""
+
+#: src/views/attribute/List.js:127
+#: src/views/product/attributes/ProductAttributes.js:73
+#~ msgid "delete_attribute"
+#~ msgstr "delete attribute"
+
+#: src/views/category/List.js:127
+#~ msgid "delete_category"
+#~ msgstr "delete category"
+
+#: src/views/city/List.js:156
+msgid "delete_city"
+msgstr "delete city"
+
+#: src/views/country/List.js:106
+msgid "delete_country"
+msgstr "delete country"
+
+#: src/views/governorate/List.js:116
+msgid "delete_governorate"
+msgstr ""
+
+#: src/views/usersManagement/painters/List.js:82
+#~ msgid "delete_pinter"
+#~ msgstr ""
+
+#: src/views/product/attributes/List.js:94
+#: src/views/product/List.js:95
+#~ msgid "delete_product"
+#~ msgstr "delete product"
+
+#: src/views/questions/List.js:127
+#~ msgid "delete_question"
+#~ msgstr "delete question"
+
+#: src/views/usersManagement/Roles/List.js:113
+msgid "delete_role"
+msgstr "delete role"
+
+#: src/views/slab/List.js:54
+#~ msgid "delete_slab"
+#~ msgstr "delete slab"
+
+#: src/views/store/List.js
+#~ msgid "delete_store"
+#~ msgstr "delete store"
+
+#: src/views/usersManagement/users/List.js:109
+msgid "delete_user"
+msgstr ""
+
+#: src/views/product/Details.js:148
+#~ msgid "description_ar"
+#~ msgstr "arabic description"
+
+#: src/views/product/Details.js:154
+#~ msgid "description_en"
+#~ msgstr "english description"
+
+#: src/views/suggestions/Columns.js:26
+#: src/views/usersManagement/UserRequests/Columns.js:22
+#~ msgid "details"
+#~ msgstr ""
+
+#: src/views/btechWallet/Filters/FilterTransactions.js:68
+msgid "direction"
+msgstr ""
+
+#: src/views/attribute/List.js:109
+#~ msgid "edit_attribute"
+#~ msgstr "edit attribute"
+
+#: src/views/category/Details.js:91
+#: src/views/category/List.js:112
+#~ msgid "edit_category"
+#~ msgstr "edit category"
+
+#: src/views/city/List.js:134
+msgid "edit_city"
+msgstr "edit city"
+
+#: src/views/companyInfo/Details.js:85
+#~ msgid "edit_company_info"
+#~ msgstr "edit company info"
+
+#: src/views/country/List.js:94
+msgid "edit_country"
+msgstr "edit country"
+
+#: src/views/governorate/List.js:104
+msgid "edit_governorate"
+msgstr ""
+
+#: src/views/questions/Details.js:67
+#: src/views/questions/List.js:112
+#~ msgid "edit_question"
+#~ msgstr "edit question"
+
+#: src/views/usersManagement/Roles/Details.js:82
+msgid "edit_role"
+msgstr ""
+
+#: src/views/service/Details.js:89
+#~ msgid "edit_service"
+#~ msgstr ""
+
+#: src/views/serviceOptions/Details.js:78
+#~ msgid "edit_service_option"
+#~ msgstr ""
+
+#: src/views/slab/List.js:54
+#~ msgid "edit_slab"
+#~ msgstr "edit slab"
+
+#: src/views/store/Details.js:82
+msgid "edit_store"
+msgstr "edit store"
+
+#: src/views/usersManagement/users/Details.js:111
+msgid "edit_user"
+msgstr ""
+
+#: src/views/tenant/Columns.js:18
+#: src/views/tenant/Columns.js:85
+#: src/views/tenant/details/GeneralInfo.js:71
+#: src/views/tenant/details/TenantContactForm.js:55
+#: src/views/user-settings/GeneralTabContent.js:61
+msgid "email"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:156
+#: src/views/createCodePage/CodeBatches.js:110
+#~ msgid "end"
+#~ msgstr ""
+
+#: src/views/btechWallet/Filters/FilterTransactions.js:48
+#: src/views/transactions/TransactionComponent.js:122
+msgid "end_date"
+msgstr ""
+
+#: src/views/user-settings/PasswordTabContent.js:69
+msgid "enter_confirm_password"
+msgstr ""
+
+#: src/views/user-settings/PasswordTabContent.js:62
+msgid "enter_new_password"
+msgstr ""
+
+#: src/views/user-settings/PasswordTabContent.js:52
+msgid "enter_old_password"
+msgstr ""
+
+#: src/views/survey/surveyManagement/Details.js:21
+#~ msgid "enter_your_survey_information"
+#~ msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:175
+#~ msgid "expairyDate"
+#~ msgstr "expairy date"
+
+#: src/views/product/Details.js:126
+#~ msgid "expiration_ar"
+#~ msgstr "arabic expiration "
+
+#: src/views/product/Details.js:126
+#~ msgid "expiration_en"
+#~ msgstr "english expiration"
+
+#: src/views/companyInfo/Details.js:124
+#~ msgid "facebook"
+#~ msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:111
+msgid "fcaebookAppId"
+msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:118
+msgid "fcaebookKey"
+msgstr ""
+
+#: src/views/product/Details.js:126
+#~ msgid "features_ar"
+#~ msgstr "arabic  product features"
+
+#: src/views/product/Details.js:126
+#~ msgid "features_en"
+#~ msgstr "english  product features"
+
+#: src/views/serviceOptions/Columns.js:30
+#~ msgid "fees"
+#~ msgstr ""
+
+#: src/views/reports/responses/List.js:129
+#~ msgid "filter"
+#~ msgstr "filter"
+
+#: src/views/user-settings/GeneralTabContent.js:66
+#: src/views/usersManagement/users/Details.js:136
+msgid "first_name"
+msgstr ""
+
+#: src/views/usersManagement/users/Columns.js:35
+#: src/views/usersManagement/users/List.js:154
+msgid "full_name"
+msgstr ""
+
+#: src/views/Home.js:109
+#~ msgid "game"
+#~ msgstr ""
+
+#: src/views/user-settings/Tabs.js:11
+msgid "general"
+msgstr ""
+
+#: src/views/usersManagement/painters/CustomerSupport/Tabs.js:11
+#~ msgid "general_info"
+#~ msgstr "general info"
+
+#: src/views/usersManagement/users/Details.js:208
+msgid "generate_password"
+msgstr ""
+
+#: src/views/createCodePage/CodeForm.js:89
+#~ msgid "gnerate"
+#~ msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:136
+msgid "googleAppId"
+msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:143
+msgid "googleKey"
+msgstr ""
+
+#: src/views/city/Columns.js:16
+#: src/views/city/Details.js:83
+#: src/views/city/List.js:186
+#: src/views/store/Columns.js:27
+#: src/views/store/Details.js:158
+#: src/views/store/List.js:167
+msgid "governorate"
+msgstr ""
+
+#: src/views/governorate/List.js:74
+msgid "governorates"
+msgstr ""
+
+#: src/@core/components/breadcrumbs/index.js:30
+#: src/navigation/vertical/index.js:15
+msgid "home"
+msgstr ""
+
+#: src/views/category/Columns.js:44
+#~ msgid "image"
+#~ msgstr "image "
+
+#: src/components/shared/ImportDataToexcel.js:167
+msgid "import-data"
+msgstr ""
+
+#: src/navigation/vertical/index.js:65
+#~ msgid "import-users"
+#~ msgstr ""
+
+#: src/views/companyInfo/Details.js:138
+#~ msgid "instagram"
+#~ msgstr ""
+
+#: src/views/product/Details.js:126
+#~ msgid "instructions_ar"
+#~ msgstr "arabic  product instructions"
+
+#: src/views/product/Details.js:126
+#~ msgid "instructions_en"
+#~ msgstr "english  product instructions"
+
+#: src/views/createCodePage/CodeBatches.js:134
+#~ msgid "intial_refrence"
+#~ msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:264
+#~ msgid "invalid_prefix"
+#~ msgstr "This prefix is not valid"
+
+#: src/views/survey/surveyManagement/tabs/QuestionComponent.js:85
+#: src/views/survey/surveyManagement/tabs/QuestionComponent.js:93
+#~ msgid "is-correct-answer"
+#~ msgstr "Is correct answer"
+
+#: src/views/tenant/details/GeneralInfo.js:68
+msgid "isActive"
+msgstr ""
+
+#: src/views/category/Details.js:35
+#: src/views/category/Details.js:41
+#~ msgid "is_required"
+#~ msgstr ""
+
+#: src/store/city/logic.js:42
+#: src/store/city/logic.js:70
+#: src/store/service/logic.js:51
+#: src/store/service/logic.js:61
+#: src/store/service/logic.js:72
+#: src/store/store/logic.js:18
+#: src/store/transaction/logic.js:24
+#: src/store/transaction/logic.js:31
+#: src/store/transaction/logic.js:40
+msgid "item_added_successfully"
+msgstr "Item added successfully"
+
+#: src/store/city/logic.js:25
+#: src/store/city/logic.js:56
+#: src/store/city/logic.js:84
+#: src/store/service/logic.js:103
+#: src/store/service/logic.js:110
+#: src/store/store/logic.js:38
+msgid "item_deleted_successfully"
+msgstr "Item deleted successfully"
+
+#: src/store/city/logic.js:49
+#: src/store/city/logic.js:77
+#: src/store/service/logic.js:82
+#: src/store/service/logic.js:93
+#: src/store/store/logic.js:28
+#: src/store/userManagement/logic.js:95
+msgid "item_edited_successfully"
+msgstr "Item edited successfully"
+
+#: src/views/user-settings/GeneralTabContent.js:72
+#: src/views/usersManagement/users/Details.js:143
+msgid "last_name"
+msgstr ""
+
+#: src/views/store/Details.js:129
+msgid "lat"
+msgstr ""
+
+#: src/views/store/Details.js:66
+msgid "lat_is_required"
+msgstr "lat is required"
+
+#: src/views/Home.js:117
+#: src/views/Home.js:119
+#~ msgid "leader_board"
+#~ msgstr ""
+
+#: src/views/createCodePage/CodeForm.js:132
+#~ msgid "length"
+#~ msgstr ""
+
+#: src/views/product/Details.js:171
+#~ msgid "link"
+#~ msgstr ""
+
+#: src/views/store/Details.js:122
+msgid "lng"
+msgstr ""
+
+#: src/views/store/Details.js:65
+msgid "lng_is_required"
+msgstr "lng is required"
+
+#: src/@core/layouts/components/navbar/UserDropdown.js:98
+msgid "logout"
+msgstr ""
+
+#: src/navigation/vertical/index.js:88
+#~ msgid "lookups"
+#~ msgstr ""
+
+#: src/views/survey/surveyManagement/tabs/SurveyInfo.js:81
+#~ msgid "making_a_static_questions_number_per_page"
+#~ msgstr ""
+
+#: src/views/offers/Columns.js:14
+#~ msgid "message"
+#~ msgstr ""
+
+#: src/views/offers/Details.js:114
+#~ msgid "message_ar"
+#~ msgstr ""
+
+#: src/views/offers/Details.js:55
+#~ msgid "message_ar_is_required"
+#~ msgstr ""
+
+#: src/views/tenant/Columns.js:25
+#: src/views/tenant/Columns.js:92
+#: src/views/tenant/details/GeneralInfo.js:75
+#: src/views/tenant/details/TenantContactForm.js:60
+msgid "mobileNumber"
+msgstr ""
+
+#: src/views/btechWallet/Columns.js:111
+#: src/views/city/Columns.js:11
+#: src/views/governorate/Columns.js:11
+#: src/views/store/Columns.js:16
+#: src/views/tenant/Columns.js:11
+#: src/views/tenant/Columns.js:78
+#: src/views/tenant/details/GeneralInfo.js:69
+#: src/views/tenant/details/TenantContactForm.js:52
+#: src/views/usersManagement/Roles/Details.js:105
+msgid "name"
+msgstr ""
+
+#: src/views/store/List.js:159
+msgid "name / phone_number"
+msgstr ""
+
+#: src/views/country/Columns.js:12
+#: src/views/country/Details.js:70
+msgid "name_ar"
+msgstr "arabic name"
+
+#: src/views/category/Details.js:33
+#~ msgid "name_ar_is_requilred"
+#~ msgstr "arabic name is required"
+
+#: src/views/product/Details.js:66
+#: src/views/service/Details.js:69
+#~ msgid "name_ar_is_required"
+#~ msgstr "arabic name is required"
+
+#: src/views/country/Columns.js:8
+#: src/views/country/Details.js:75
+msgid "name_en"
+msgstr "english name"
+
+#: src/views/category/Details.js:32
+#~ msgid "name_en_is_requilred"
+#~ msgstr "english name is required"
+
+#: src/views/product/Details.js:65
+#: src/views/service/Details.js:68
+#~ msgid "name_en_is_required"
+#~ msgstr "english name is required"
+
+#: src/views/store/Details.js:59
+#~ msgid "name_is_required"
+#~ msgstr ""
+
+#: src/views/usersManagement/painters/CustomerSupport/GeneralInfoTab.js:168
+#: src/views/usersManagement/UserRequests/Details.js:134
+#~ msgid "nationalId"
+#~ msgstr "National Id"
+
+#: src/views/usersManagement/painters/List.js:31
+#~ msgid "national_id"
+#~ msgstr "national id"
+
+#: src/navigation/vertical/index.js:120
+#: src/views/nationality/List.js:70
+#~ msgid "nationalities"
+#~ msgstr ""
+
+#: src/views/usersManagement/painters/CustomerSupport/TransactionsTab.js:81
+#~ msgid "net"
+#~ msgstr ""
+
+#: src/views/city/List.js:162
+#: src/views/country/List.js:112
+#: src/views/governorate/List.js:122
+#: src/views/store/List.js:119
+#: src/views/tenant/details/ContactsTabContent.js:83
+#: src/views/tenant/List.js:91
+#: src/views/transactions/TransactionComponent.js:90
+#: src/views/usersManagement/Roles/List.js:119
+#: src/views/usersManagement/users/List.js:115
+#: src/views/ValidateVoucher/ValidateVoucher.js:218
+msgid "no"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:258
+#: src/views/createCodePage/CodeBatches.js:154
+#~ msgid "no_allowble_codes"
+#~ msgstr "No Remaining free codes"
+
+#: src/views/serviceOptions/List.js:54
+#~ msgid "options"
+#~ msgstr ""
+
+#: src/views/product/Details.js:126
+#~ msgid "packSize_ar"
+#~ msgstr "arabic available packs Size"
+
+#: src/views/product/Details.js:126
+#~ msgid "packSize_en"
+#~ msgstr "english available packs Size"
+
+#: src/views/survey/surveyManagement/tabs/QuestionsTab.js:143
+#~ msgid "page"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:124
+#: src/views/usersManagement/painters/List.js:49
+#~ msgid "painters"
+#~ msgstr ""
+
+#: src/views/attribute/Details.js:91
+#: src/views/category/Details.js:122
+#~ msgid "parent"
+#~ msgstr "parent category"
+
+#: src/views/category/Columns.js:29
+#~ msgid "parentCategoryName"
+#~ msgstr "Parent Category Name"
+
+#: src/views/tenant/details/GeneralInfo.js:85
+#: src/views/usersManagement/users/Details.js:189
+msgid "password"
+msgstr ""
+
+#: src/views/store/Columns.js:21
+#: src/views/store/Details.js:112
+msgid "phone"
+msgstr ""
+
+#: src/views/tenant/Columns.js:32
+#: src/views/tenant/Columns.js:99
+#: src/views/tenant/details/GeneralInfo.js:80
+#: src/views/tenant/details/TenantContactForm.js:66
+msgid "phoneNumber"
+msgstr ""
+
+#: src/views/usersManagement/users/Columns.js:40
+#: src/views/usersManagement/users/Details.js:177
+#: src/views/usersManagement/users/List.js:162
+msgid "phone_number"
+msgstr ""
+
+#: src/components/inputs/Datepicker.js:28
+msgid "plz_select_date"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:122
+#: src/views/product/List.js:52
+#~ msgid "point"
+#~ msgstr "points"
+
+#: src/components/shared/ClientPoints.js:19
+#: src/components/shared/TenantPoints.js:19
+msgid "points"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:143
+#: src/views/createCodePage/CodeBatches.js:101
+#: src/views/createCodePage/CodeForm.js:113
+#~ msgid "prefix"
+#~ msgstr ""
+
+#: src/views/createCodePage/CodeForm.js:176
+#~ msgid "prefix_not_used_before"
+#~ msgstr "This Prefix is not used before. Enter start refrnce"
+
+#: src/views/createCodePage/CodeForm.js:169
+#~ msgid "prefix_used_before"
+#~ msgstr "This Prefix is used before. New codes will start from : "
+
+#: src/views/prize/List.js:101
+#~ msgid "prize_details"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:37
+#: src/views/offers/Details.js:129
+#: src/views/prize/List.js:70
+#~ msgid "prizes"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:47
+#: src/views/product/Details.js:95
+#~ msgid "product"
+#~ msgstr "products"
+
+#: src/views/category/products/Product.js:20
+#~ msgid "product-name"
+#~ msgstr ""
+
+#: src/views/products/Details.js:125
+#~ msgid "product-offers"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:68
+#~ msgid "productCode"
+#~ msgstr "assign code to product"
+
+#: src/views/createCodePage/CodeBatches.js:115
+#~ msgid "product_name"
+#~ msgstr ""
+
+#: src/views/product/attributes/List.js:62
+#: src/views/product/List.js:64
+#~ msgid "products"
+#~ msgstr ""
+
+#: src/@core/layouts/components/navbar/UserDropdown.js:88
+msgid "profile"
+msgstr ""
+
+#: src/navigation/vertical/index.js:79
+#: src/views/questions/List.js:75
+#~ msgid "questions"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:21
+msgid "razy_clients"
+msgstr "Razy Clients"
+
+#: src/views/createCodePage/CodeForm.js:125
+#~ msgid "referenceStart"
+#~ msgstr "reference start"
+
+#: src/views/usersManagement/UserRequests/Details.js:83
+#~ msgid "reject"
+#~ msgstr ""
+
+#: src/components/form/ImageField.js:104
+#~ msgid "remove"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:81
+#~ msgid "reports"
+#~ msgstr "reports"
+
+#: src/views/usersManagement/UserRequests/List.js:45
+#~ msgid "requests"
+#~ msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:96
+msgid "require-national-id"
+msgstr ""
+
+#: src/views/product/attributes/ProductAttributes.js:122
+#~ msgid "required"
+#~ msgstr ""
+
+#: src/views/usersManagement/users/List.js:173
+msgid "role"
+msgstr ""
+
+#: src/views/usersManagement/Roles/List.js:83
+msgid "role_list"
+msgstr ""
+
+#: src/navigation/vertical/index.js:71
+#: src/views/usersManagement/Roles/Columns.js:8
+#: src/views/usersManagement/users/Details.js:215
+msgid "roles"
+msgstr "roles"
+
+#: src/views/city/List.js:151
+#: src/views/country/List.js:101
+#: src/views/governorate/List.js:111
+#: src/views/setting/Setting.js:64
+#: src/views/store/Details.js:89
+#: src/views/tenant/details/ConfigurationTabContent.js:151
+#: src/views/tenant/details/ContactsTabContent.js:98
+#: src/views/tenant/details/GeneralInfo.js:103
+#: src/views/user-settings/GeneralTabContent.js:82
+#: src/views/user-settings/PasswordTabContent.js:84
+#: src/views/usersManagement/Roles/Details.js:89
+#: src/views/usersManagement/users/Details.js:115
+msgid "save_changes"
+msgstr "save changes"
+
+#: src/components/TransKeyNotFound.js:7
+msgid "search"
+msgstr ""
+
+#: src/views/store/List.js:171
+#: src/views/store/List.js:177
+msgid "select"
+msgstr ""
+
+#: src/views/store/Details.js:71
+#~ msgid "select_city"
+#~ msgstr "select city"
+
+#: src/views/city/Columns.js:18
+#: src/views/city/Details.js:86
+#~ msgid "select_country"
+#~ msgstr "select country"
+
+#: src/views/selectCustomer/List.js:36
+msgid "select_customer"
+msgstr "select customer"
+
+#: src/views/store/Details.js:71
+#~ msgid "select_governorate"
+#~ msgstr "select governorate"
+
+#: src/views/tenant/details/ConfigurationTabContent.js:89
+msgid "send-OTP"
+msgstr ""
+
+#: src/views/usersManagement/painters/List.js:31
+#~ msgid "send_notification"
+#~ msgstr "send notification"
+
+#: src/views/transactions/Columns.js:121
+msgid "service_option"
+msgstr ""
+
+#: src/views/service/Details.js:115
+#~ msgid "service_type"
+#~ msgstr ""
+
+#: src/views/service/Details.js:116
+#~ msgid "service_typee"
+#~ msgstr "service type"
+
+#: src/views/service/List.js:53
+#~ msgid "services"
+#~ msgstr ""
+
+#: src/views/setting/Setting.js:55
+msgid "setting"
+msgstr "setting"
+
+#: src/navigation/vertical/index.js:108
+#~ msgid "settings"
+#~ msgstr "settings"
+
+#: src/views/serviceOptions/Columns.js:54
+#~ msgid "slab"
+#~ msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:149
+#: src/views/createCodePage/CodeBatches.js:105
+#~ msgid "start"
+#~ msgstr ""
+
+#: src/views/btechWallet/Filters/FilterTransactions.js:41
+#: src/views/transactions/TransactionComponent.js:115
+msgid "start_date"
+msgstr ""
+
+#: src/views/home/StatusCard.js:44
+msgid "statistics"
+msgstr ""
+
+#: src/components/shared/TransactionDetails.js:108
+#: src/components/shared/TransactionDetails.js:132
+#: src/views/btechWallet/Columns.js:49
+#: src/views/transactions/Columns.js:81
+msgid "status"
+msgstr ""
+
+#: src/navigation/vertical/index.js:28
+#: src/views/usersManagement/users/Details.js:168
+msgid "store"
+msgstr "Stores"
+
+#: src/views/usersManagement/UserRequests/Details.js:153
+#~ msgid "storeId"
+#~ msgstr "store"
+
+#: src/views/store/List.js:72
+msgid "stores"
+msgstr ""
+
+#: src/views/product/List.js:126
+#~ msgid "subcategoryName"
+#~ msgstr "subcategory"
+
+#: src/views/suggestions/Columns.js:22
+#: src/views/suggestions/Details.js:43
+#~ msgid "subject"
+#~ msgstr ""
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:161
+msgid "submit"
+msgstr ""
+
+#: src/views/suggestions/List.js:80
+#~ msgid "suggestion_details"
+#~ msgstr ""
+
+#: src/navigation/vertical/index.js:150
+#: src/views/suggestions/List.js:58
+#~ msgid "suggestions"
+#~ msgstr "suggestions"
+
+#: src/views/usersManagement/painters/Columns.js:38
+#~ msgid "tenant"
+#~ msgstr ""
+
+#: src/views/transactions/Columns.js:147
+msgid "tenant_name"
+msgstr ""
+
+#: src/views/tenant/List.js:49
+msgid "tenants"
+msgstr ""
+
+#: src/views/terms/List.js:20
+#~ msgid "terms_and_conditions"
+#~ msgstr "terms and conditions\""
+
+#: src/store/city/logic.js:23
+#: src/store/city/logic.js:40
+#: src/store/city/logic.js:47
+#: src/store/city/logic.js:54
+#: src/store/city/logic.js:68
+#: src/store/city/logic.js:75
+#: src/store/city/logic.js:82
+#: src/store/service/logic.js:49
+#: src/store/service/logic.js:59
+#: src/store/service/logic.js:70
+#: src/store/service/logic.js:80
+#: src/store/service/logic.js:91
+#: src/store/service/logic.js:101
+#: src/store/service/logic.js:108
+#: src/store/store/logic.js:16
+#: src/store/store/logic.js:26
+#: src/store/store/logic.js:36
+#: src/store/transaction/logic.js:22
+#: src/store/transaction/logic.js:29
+#: src/store/transaction/logic.js:38
+#: src/store/userManagement/logic.js:93
+msgid "there_is_an_error_occurred_try_again_later"
+msgstr ""
+
+#: src/components/shared/SendNotification.js:39
+msgid "title"
+msgstr "title"
+
+#: src/views/questions/Details.js:28
+#~ msgid "title_ar"
+#~ msgstr "title in arabic"
+
+#: src/views/questions/Details.js:28
+#~ msgid "title_en"
+#~ msgstr "title in english"
+
+#: src/components/shared/SendNotification.js:24
+msgid "title_is_required"
+msgstr ""
+
+#: src/components/shared/TransactionDetails.js:87
+#: src/views/btechWallet/Columns.js:44
+#: src/views/transactions/Columns.js:68
+msgid "total"
+msgstr ""
+
+#: src/views/createCodePage/CodeBatches.js:142
+#~ msgid "total_assigned_codes"
+#~ msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:234
+#: src/views/createCodePage/CodeBatches.js:138
+#~ msgid "total_count"
+#~ msgstr "Total codes count generated for this prefix"
+
+#: src/views/createCodePage/CodeBatches.js:146
+#~ msgid "total_unassigned_codes"
+#~ msgstr ""
+
+#: src/views/transactions/TransactionComponent.js:84
+msgid "transaction"
+msgstr ""
+
+#: src/components/shared/TransactionDetails.js:73
+#: src/views/btechWallet/Columns.js:28
+#: src/views/transactions/Columns.js:56
+msgid "transactionDirection"
+msgstr "Direction"
+
+#: src/views/usersManagement/painters/CustomerSupport/TransactionsTab.js:71
+#~ msgid "transactionType"
+#~ msgstr "Type"
+
+#: src/components/shared/TransactionDetails.js:53
+msgid "transaction_details"
+msgstr ""
+
+#: src/views/transactions/Columns.js:50
+msgid "transaction_type"
+msgstr ""
+
+#: src/navigation/vertical/index.js:42
+#: src/views/transactions/TransactionComponent.js:20
+msgid "transactions"
+msgstr "transactions"
+
+#: src/views/companyInfo/Details.js:131
+#~ msgid "twitter"
+#~ msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:103
+msgid "use-Fcaebook-Auth"
+msgstr ""
+
+#: src/views/tenant/details/ConfigurationTabContent.js:128
+msgid "use-google-auth"
+msgstr ""
+
+#: src/views/createCodePage/AssignCodeForm.js:238
+#~ msgid "used_codes"
+#~ msgstr "Total used codes for this prefix"
+
+#: src/navigation/vertical/index.js:120
+#~ msgid "user_managment"
+#~ msgstr "user managment"
+
+#: src/views/user-settings/GeneralTabContent.js:56
+#: src/views/usersManagement/users/Columns.js:20
+#: src/views/usersManagement/users/Details.js:150
+msgid "user_name"
+msgstr "user name"
+
+#: src/views/usersManagement/users/Details.js:230
+#~ msgid "user_type"
+#~ msgstr "user type"
+
+#: src/views/tenant/details/GeneralInfo.js:84
+msgid "username"
+msgstr ""
+
+#: src/navigation/vertical/index.js:35
+#: src/views/usersManagement/users/List.js:73
+msgid "users"
+msgstr ""
+
+#: src/views/product/Details.js:126
+#~ msgid "usingTools_ar"
+#~ msgstr "arabic using tools"
+
+#: src/views/product/Details.js:126
+#~ msgid "usingTools_en"
+#~ msgstr "english using tools"
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:115
+msgid "validate_voucher"
+msgstr "validate voucher"
+
+#: src/views/product/attributes/ProductAttributes.js:181
+#~ msgid "value"
+#~ msgstr "value"
+
+#: src/views/product/attributes/ProductAttributes.js:165
+#~ msgid "value_ar"
+#~ msgstr ""
+
+#: src/views/product/attributes/ProductAttributes.js:172
+#~ msgid "value_en"
+#~ msgstr ""
+
+#: src/views/ValidateVoucher/ValidateVoucher.js:132
+msgid "voucherSerial"
+msgstr ""
+
+#: src/views/city/List.js:163
+#: src/views/country/List.js:113
+#: src/views/governorate/List.js:123
+#: src/views/store/List.js:120
+#: src/views/tenant/details/ContactsTabContent.js:84
+#: src/views/tenant/List.js:92
+#: src/views/transactions/TransactionComponent.js:91
+#: src/views/usersManagement/Roles/List.js:120
+#: src/views/usersManagement/users/List.js:116
+#: src/views/ValidateVoucher/ValidateVoucher.js:219
+msgid "yes"
+msgstr ""

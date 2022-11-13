@@ -1,0 +1,328 @@
+/*================================================================================
+	Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+@font-face {
+  font-family: "Tajawal_Bold";
+  src: url("../fonts/Tajawal-Bold.ttf") format("opentype");
+  unicode-range: "U+0-10FFFF";
+}
+
+@font-face {
+  font-family: "Tajawal_Medium";
+  src: url("../fonts/Tajawal-Medium.ttf") format("opentype");
+  unicode-range: "U+0-10FFFF";
+}
+
+@font-face {
+  font-family: "Tajawal";
+  src: url("../fonts/Tajawal-Regular.ttf") format("opentype");
+  unicode-range: "U+0-10FFFF";
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "Hasan-Alquds";
+  src: url("../fonts/Hasan-Alquds-Unicode-Medium.ttf") format("opentype");
+  unicode-range: "U+0-10FFFF";
+}
+
+body {
+  [dir="rtl"] & {
+    font-family: "Tajawal_Medium", sans-serif !important;
+    font-size: medium;
+  }
+  .navigation {
+    font-family: "Tajawal_Medium", sans-serif !important;
+    font-size: medium;
+    font-weight: bold;
+  }
+  .btn {
+    font-family: "Tajawal_Medium", sans-serif !important;
+    font-size: medium;
+  }
+  #back {
+    [dir="rtl"] & {
+      transform: scale(-1, 1);
+    }
+  }
+  .custom-checkbox {
+    z-index: 0;
+  }
+}
+
+.phone-input {
+  [dir="rtl"] & {
+    direction: ltr;
+    text-align: right;
+  }
+}
+
+@media (max-width: 768px) {
+  .bs-stepper {
+    .bs-stepper-label {
+      display: none !important;
+    }
+    .bs-stepper-header {
+      flex-direction: row !important;
+      justify-content: space-between !important;
+      align-items: center !important;
+      .step {
+        .step-trigger {
+          padding: 0.5rem 0 !important;
+          flex-direction: row;
+        }
+      }
+      .line {
+        display: unset !important;
+      }
+    }
+  }
+}
+
+.react-tel-input {
+  input {
+    width: 100% !important;
+  }
+}
+#react-select-2-input {
+  color: #d0d2d6;
+}
+
+// custooms
+.img-contianer {
+  height: 300px;
+}
+.img-contianer img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+// *********************************
+#wheelOfFortune {
+  display: inline-block;
+  position: relative;
+  box-shadow: 5px 15px 20px 1px grey;
+  border-radius: 50%;
+}
+
+#wheel {
+  width: 100%;
+  display: block;
+}
+
+.circle {
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  width: 10%;
+  height: 10%;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 4px rgba(61, 61, 61, 0.6);
+}
+.arrow {
+  position: absolute;
+  top: 43%;
+  left: 90%;
+  height: 14%;
+}
+.spin-btn {
+  margin-top: 1rem;
+  font-weight: 600;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #094529;
+  text-transform: lowercase;
+  text-shadow: 0 0 10px #094529;
+}
+
+#spin {
+  font: 1.5em/0 sans-serif;
+  user-select: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 30%;
+  height: 30%;
+  margin: -15%;
+  background: #000;
+  color: #fff;
+  box-shadow: 0 0 0 8px currentColor, 0 0px 15px 5px rgba(0, 0, 0, 0.6);
+  border-radius: 50%;
+  transition: 0.8s;
+}
+
+#spin::after {
+  content: "";
+  position: absolute;
+  top: -17px;
+  border: 10px solid transparent;
+  border-bottom-color: currentColor;
+  border-top: none;
+}
+
+.center-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+$dark-red: #97253d;
+$yellow: #fec31d;
+$scib-green: #094529;
+
+.icon-bg {
+  background-color: $dark-red;
+  width: 65px;
+  height: 65px;
+}
+.icon {
+  color: $yellow;
+}
+.level {
+  vertical-align: middle;
+  background-color: $dark-red;
+  color: $yellow;
+  border-radius: 5px;
+  border: 1px solid $scib-green;
+  padding: 5px 10px;
+  min-width: 140px;
+  font-size: 1.8rem;
+  box-shadow: 0px 3px 5px grey;
+}
+
+.login-image-width {
+  width: 100%;
+  @media only screen and (min-width: 900px) {
+    width: 60%;
+  }
+}
+
+.upper-nav {
+  padding: 7px;
+  margin: 0px 10px;
+  border-radius: 7px;
+  background-color: #fffaeb;
+  box-shadow: 0 0 7px grey;
+}
+
+.select__menu {
+  z-index: 100;
+}
+
+.bg {
+  background-color: #f5f5f5;
+}
+
+.test {
+  border-right: 1px solid #dddae3;
+  padding: 0 0.8rem;
+}
+
+// Image
+
+.image-container {
+  position: relative;
+  background-color: rgb(247, 247, 247);
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: all 0.3s linear;
+  border: 2px dashed rgb(199, 199, 199);
+}
+
+.image-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: scale(0);
+  transition: all 0.3s linear;
+}
+
+.image-container:hover {
+  background: rgb(247, 247, 247);
+}
+
+.image-container:hover img {
+  opacity: 0.3;
+}
+
+.image-container:hover .image-link {
+  transform: translate(-50%, -50%) scale(1);
+}
+.twitter-btn {
+  width: 20vw;
+}
+.instgram-btn {
+  background: #f09433;
+  background: -moz-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  background: -webkit-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  background: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+}
+
+.custom-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+
+  border-radius: 5px; /* 5px rounded corners */
+}
+.custom-card:hover {
+  box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.custom-container {
+  padding: 2px 16px;
+  height: 320px;
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+.custom-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 5px 5px 0 0;
+}
