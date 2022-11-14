@@ -7,6 +7,7 @@ export default function CustomModal({
   body,
   show,
   onHide,
+  onClose,
   onConfirmHandler,
   closeOutside = false,
   closeOnConfirm = true,
@@ -15,6 +16,7 @@ export default function CustomModal({
   submitButtonColor = "primary",
   closeButtonColor = "secondary",
   modalClass = "",
+  showFooter=true
 }) {
   const dispatch = useDispatch();
   const [open, setOpen] = useState(false);
@@ -25,6 +27,7 @@ export default function CustomModal({
   };
 
   const close = () => {
+    onClose ? onClose() : ()=>{};
     onHide ? dispatch(onHide()) : setOpen(false);
   };
 
@@ -42,7 +45,7 @@ export default function CustomModal({
         >
           <ModalHeader toggle={close}>{title}</ModalHeader>
           <ModalBody>{body}</ModalBody>
-          <ModalFooter>
+        { showFooter &&  <ModalFooter>
             <Button color={`${closeButtonColor}`} onClick={close}>
               {closeButtonTitle}
             </Button>
@@ -53,7 +56,7 @@ export default function CustomModal({
             >
               {confirmButtonTitle}
             </Button>}
-          </ModalFooter>
+          </ModalFooter>}
         </Modal>
       </div>
     </div>

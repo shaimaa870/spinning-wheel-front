@@ -1,10 +1,11 @@
-import { useFormikContext } from "formik";
+import { Field, useFormikContext } from "formik";
 import CustomDataTable from "src/components/DataTable/CustomDataTable";
 import { Row, Col, Button } from "reactstrap";
-import { InputField } from "src/components";
+import { ImageField, InputField } from "src/components";
 import { Plus } from "react-feather";
 import { SegmantsColumns } from "src/views/spinningWheel/Columns";
 import { Trans } from "@lingui/react";
+import { useEffect } from "react";
 
 function WheelSegments() {
   const {
@@ -24,6 +25,8 @@ function WheelSegments() {
       setFieldTouched("segment.reward", true);
       setFieldTouched("segment.color", true);
       setFieldTouched("segment.textColor", true);
+      setFieldTouched("segment.image", true);
+
     } else {
       const newSegment = values.segment;
       if (newSegment.key || newSegment.id) {
@@ -42,6 +45,7 @@ function WheelSegments() {
         reward: "",
         color: "",
         textColor: "",
+        image:""
         
       });
       
@@ -49,6 +53,8 @@ function WheelSegments() {
       setFieldTouched("segment.reward", false);
       setFieldTouched("segment.color", false);
       setFieldTouched("segment.textColor", false);
+      setFieldTouched("segment.image", false);
+
     }
   };
 
@@ -61,6 +67,7 @@ function WheelSegments() {
   const editSegmant = (segment) => {
     setFieldValue("segment", segment);
   };
+  useEffect(()=>{console.log("values",values.segments);},[values])
 
   return (
     <div className="border p-1 rounded">
@@ -73,10 +80,10 @@ function WheelSegments() {
         )}
       </div>
       <Row>
-        <Col sm={12} md={3}>
+        <Col sm={12} md={2}>
           <InputField name="segment.label" label={<Trans id="title"/>} />
         </Col>
-        <Col sm={12} md={3}>
+        <Col sm={12} md={2}>
           <InputField name="segment.reward" label={<Trans id="reward"/>} />
         </Col>
         <Col sm={12} md={2}>
@@ -84,6 +91,16 @@ function WheelSegments() {
         </Col>
         <Col sm={12} md={2}>
           <InputField name="segment.textColor" type="color" label={<Trans id="textColor"/>} />
+        </Col>
+        <Col sm={12} md={2}>
+        <Field
+                  mode={"add"}
+                  name={`segment.image`}
+                  component={ImageField}
+                 // imageSource={segment?.image || ""}
+                  width="180"
+                  height="180"
+                />
         </Col>
         <Col md={2}>
           <Button.Ripple

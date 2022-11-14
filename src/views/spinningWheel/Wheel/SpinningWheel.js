@@ -131,7 +131,7 @@ const SpinningWheel = ({
   const calcResult = (rotation) => {
     let result = Math.ceil((360 - ((rotation + 90) % 360)) / angleStep);
     setTimeout(() => {
-      let winningSegment = segments.find((s, i) => i + 1 == result).label;
+      let winningSegment = segments.find((s, i) => i + 1 == result);
       onFinished(winningSegment);
       setResult(winningSegment);
       activeAfterFinishing && setDisabled(false);
@@ -140,7 +140,9 @@ const SpinningWheel = ({
 
   return (
     <div className="text-center" >
-      <div id="wheelOfFortune" >
+      <div 
+      id="wheelOfFortune"
+       >
         <canvas
           id="wheel"
           ref={canvas}

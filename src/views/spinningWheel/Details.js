@@ -101,6 +101,10 @@ function Details({
           onSubmit={onSubmit}
           validationSchema={validationSchema}
         >
+              {({ setFieldValue, values, handleSubmit, submitForm }) => {
+                    console.log("values",values?.segment);
+
+                  return (
           <Form>
             <Row>
               <Col lg="6" sm="12">
@@ -113,6 +117,7 @@ function Details({
             </Row>
             <WheelSegments />
           </Form>
+          )}}
         </Formik>
       }
     />
