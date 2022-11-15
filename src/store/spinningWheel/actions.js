@@ -8,6 +8,7 @@ const { Types, Creators } = createActions(
      editSpinningWheel:{  args: ["payload"], meta: { async: true } },
      deleteSpinningWheel:{args:["payload"],meta:{async:true}},
      setSpinningWheel:{  args: [], meta: { async: false } },
+     showDialog:{  args: [], meta: { async: false } },
      showDeleteDialog:{  args: [], meta: { async: false } },
      resetDialog:{  args: [], meta: { async: false } },
   },
