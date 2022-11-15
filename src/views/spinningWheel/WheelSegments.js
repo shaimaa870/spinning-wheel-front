@@ -45,7 +45,6 @@ function WheelSegments() {
         reward: "",
         color: "",
         textColor: "",
-        image:""
         
       });
       
@@ -80,17 +79,22 @@ function WheelSegments() {
         )}
       </div>
       <Row>
-        <Col sm={12} md={2}>
+        <Col md={8}>
+          <Row>
+        <Col sm={12} md={5}>
           <InputField name="segment.label" label={<Trans id="title"/>} />
         </Col>
-        <Col sm={12} md={2}>
+        <Col sm={12} md={5}>
           <InputField name="segment.reward" label={<Trans id="reward"/>} />
         </Col>
-        <Col sm={12} md={2}>
+        <Col sm={12} md={5}>
           <InputField name="segment.color" type="color" label={<Trans id="color"/>} />
         </Col>
-        <Col sm={12} md={2}>
+        <Col sm={12} md={5}>
           <InputField name="segment.textColor" type="color" label={<Trans id="textColor"/>} />
+        </Col>
+      
+        </Row>
         </Col>
         <Col sm={12} md={2}>
         <Field
@@ -98,14 +102,17 @@ function WheelSegments() {
                   name={`segment.image`}
                   component={ImageField}
                  // imageSource={segment?.image || ""}
-                  width="180"
-                  height="180"
+                  width="100%"
+                  height="180px"
                 />
         </Col>
-        <Col md={2}>
+    
+     
+      </Row>
+      <Col md={4} >
           <Button.Ripple
             color="primary"
-            className="btn-icon"
+            className="btn-icon mx-1"
             outline
             style={{ marginTop: "1.6rem" }}
             onClick={addSegment}
@@ -114,8 +121,6 @@ function WheelSegments() {
             <span className="align-middle ml-25">{<Trans id="add_segmant"/>}</span>
           </Button.Ripple>
         </Col>
-      </Row>
-
       <CustomDataTable
         className="mt-2"
         keyField="id"

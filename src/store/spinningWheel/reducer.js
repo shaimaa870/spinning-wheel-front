@@ -15,7 +15,11 @@ const initialState = {
 const showDeleteDialog = (state, draft, payload) => {
   draft.openDeleteDialog = true;
 };
+const showDialog= (state, draft, payload) => {
+  draft.openDialog = true;
+};
 const resetDialog = (state, draft, payload) => {
+  draft.openDialog = false;
   draft.openDialog = false;
   draft.openDeleteDialog = false;
 };
@@ -29,7 +33,7 @@ const getSpinningWheelsSuccess = (data) => {
 
 const spinningWheelDeleteSuccess = (state, draft, payload) => {
   const spinningWheels = state.spinningWheels;
-  draft.spinningWheels = spinningWheels.filter((s) => s.id != payload);
+  draft.spinningWheels = spinningWheels.filter((s) => s.id != payload?.id);
   draft.openDeleteDialog = false;
 };
 
@@ -58,7 +62,7 @@ export const reducer = createReducer(initialState, {
     action: "getSpinningWheels",
     stateName: "spinningWheels",
     async: true,
-    isPaginated: false,
+    isPaginated: true,
     successCb:getSpinningWheelsSuccess
   }),
   ...bindReducers(ActionTypes, {
@@ -70,7 +74,7 @@ export const reducer = createReducer(initialState, {
   }),
   ...bindReducers(ActionTypes, {
     action: "deleteSpinningWheel",
-    stateName: "spinningWheel",
+    stateName: "spinningWheelDeleted",
     async: true,
     isPaginated: false,
     successCb: spinningWheelDeleteSuccess,
@@ -83,7 +87,13 @@ export const reducer = createReducer(initialState, {
     isPaginated: false,
     successCb: showDeleteDialog,
   }),
-
+  ...bindReducers(ActionTypes, {
+    action: "showDialog",
+    stateName: "showDialog",
+    async: false,
+    isPaginated: false,
+    successCb: showDialog,
+  }),
   ...bindReducers(ActionTypes, {
     action: "resetDialog",
     stateName: "resetDialog",

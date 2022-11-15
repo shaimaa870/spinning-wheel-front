@@ -17,8 +17,8 @@ const Wheel = ({
   const dispatch = useDispatch();
   const history=useHistory()
   const [result, setResult] = useState();
-  const { getSpinningWheelWithId, setSpinningWheel,showDeleteDialog,resetDialog } = spinningWheelActions;
-  const { spinningWheel,openDeleteDialog } = useSelector((state) => state.spinningWheel);
+  const { getSpinningWheelWithId, setSpinningWheel,showDialog,resetDialog } = spinningWheelActions;
+  const { spinningWheel,openDialog } = useSelector((state) => state.spinningWheel);
   useEffect(() => {
     dispatch(getSpinningWheelWithId(spinningWheelId));
     return () => {
@@ -29,7 +29,7 @@ const Wheel = ({
   const segments = spinningWheel ? spinningWheel.segments : [];
   const handleFinish = (spinResult) => {
     setResult(spinResult);
-   dispatch(showDeleteDialog())
+   dispatch(showDialog())
     onFinished(spinResult);
   };
   useEffect(()=>{console.log("result",result);},[result?.label])
@@ -73,7 +73,7 @@ const Wheel = ({
         <div className="basic-modal">
           <Modal
           
-            isOpen={openDeleteDialog}
+            isOpen={openDialog}
             toggle={() => {
               setResult(undefined);
 
@@ -82,8 +82,8 @@ const Wheel = ({
           >
             <ModalBody className="bg">
             <div className="text-center">
-            <Trans id="congratulations-you-won" /> {result?.label} 🎉🎉
-            <img src={`${process.env.REACT_APP_BASE_URL}/${result?.image}`} className="bg"/>
+            <div> <Trans id="congratulations-you-won" /> {result?.label} 🎉🎉</div>
+           {result?.image && result?.image!="" && <img src={`${process.env.REACT_APP_BASE_URL}/${result?.image}?w=200`} className="bg"/>}
           </div>
             </ModalBody>
             <ModalFooter className="bg">

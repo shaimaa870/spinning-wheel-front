@@ -1,13 +1,13 @@
 export default function(/**@type {ApisauceInstance} */ api) {
-    const getSpinningWheels = () => api.get("SpinnigWheel");
-    const getSpinningWheelWithId = (id) => api.get(`SpinnigWheel/find/${id}`);
+    const getSpinningWheels = () => api.get("SpinningWheel/wheels");
+    const getSpinningWheelWithId = (id) => api.get(`SpinningWheel/wheel/${id}`);
     const deleteSpinningWheel = (id) =>
-      api.delete(`SpinnigWheel/delete/${id}`);
-    const editSpinningWheel = ({ payload}) =>
-      api.put(`SpinnigWheel`, payload);
+      api.delete(`SpinningWheel/delete-wheel/${id}`);
+    const editSpinningWheel = ({id, payload}) =>
+      api.put(`SpinningWheel/edit-wheel/${id}`, payload);
   
     const createSpinningWheel = (payload) =>
-      api.post("SpinnigWheel/", payload);
+      api.post("SpinningWheel/add-wheel", payload);
   
     return {
       spinningWheels: {
